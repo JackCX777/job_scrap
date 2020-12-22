@@ -6,5 +6,5 @@ class City(models.Model):
     slug = models.CharField(max_length=50, blank=True)
     class Meta():
         verbose_name='Название населенного пункта'
-        verbose_name_plural = 'Название населенных пунктов'
+        verbose_name_plural = 'Названия населенных пунктов'
 
