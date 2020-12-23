@@ -15,7 +15,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from scrap.views import vacancy_view
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('vacancy/', vacancy_view),
 ]

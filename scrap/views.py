@@ -1,3 +1,7 @@
 from django.shortcuts import render
+from .models import Vacancy
 
-# Create your views here.
+
+def vacancy_view(request):
+    query_set = Vacancy.objects.all()  # Request to database returns query_set object.
+    return render(request, 'scrap/vacancy.html', {'object_list': query_set})
