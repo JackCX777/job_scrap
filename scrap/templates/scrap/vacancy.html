@@ -13,12 +13,21 @@
           </div>
         </div>
     {% empty %}
-        <p>No vacancy</p>
+        <div>
+            <h3 class="mx-auto">No vacancy</h3>
+        </div>
     {% endfor %}
 
-<form method="GET" action="">
-  {{ form.as_p }}
-  <input type="submit" value="Submit">
-</form>
+<div class="row">
+    <div class="col-md-6 mx-auto">
+       <form method="GET" action="">
+         <div class="form-group">
+           {{ form.as_p }}
+         </div>
+         <button type="submit" class="btn btn-primary">Submit</button>
+       </form>
+    </div>
+</div>
+
 
 {% endblock %}
