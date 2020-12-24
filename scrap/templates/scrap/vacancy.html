@@ -3,6 +3,7 @@
 {% block title %} Vacancy {% endblock %}
 
 {% block content %}
+
     {% for obj in object_list %}
         <div class="card my-3">
           <h5 class="card-header"><a href="{{ obj.url }}">{{ obj.title }}</a></h5>
@@ -14,4 +15,11 @@
     {% empty %}
         <p>No vacancy</p>
     {% endfor %}
+
+<form action="https://www.google.com/search">
+  <label for="fname">Город:</label><br>
+  <input type="text" id="fname" name="q"><br>
+  <input type="submit" value="Submit">
+</form>
+
 {% endblock %}
