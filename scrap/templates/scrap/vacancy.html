@@ -16,9 +16,9 @@
         <p>No vacancy</p>
     {% endfor %}
 
-<form action="https://www.google.com/search">
-  <label for="fname">Город:</label><br>
-  <input type="text" id="fname" name="q"><br>
+<form method="POST" action=""> {% csrf_token %}
+  <label for="city">Город:</label><br>
+  <input type="text" id="city" name="city"><br>
   <input type="submit" value="Submit">
 </form>
 
