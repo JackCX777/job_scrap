@@ -16,9 +16,11 @@
         <p>No vacancy</p>
     {% endfor %}
 
-<form method="POST" action=""> {% csrf_token %}
+<form method="GET" action="">
   <label for="city">Город:</label><br>
   <input type="text" id="city" name="city"><br>
+  <label for="programming_language">Специальность:</label><br>
+  <input type="text" id="programming_language" name="programming_language"><br>
   <input type="submit" value="Submit">
 </form>
 
