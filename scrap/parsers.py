@@ -1,21 +1,40 @@
 import requests
 import codecs
 from bs4 import BeautifulSoup as BS
+from random import randint
 
 
-gheaders = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36'
-}
+__all__ = ('hh_parser', 'upwork_parser')
 
-# hh_url = 'https://hh.ru/search/vacancy?area=1&fromSearchLine=true&st=searchVacancy&area=1&isDefaultArea=true&exp_period=all_time&logic=normal&pos=full_text&fromSearchLine=true&st=resumeSearch&areaId=113&st=employersList&text=python'
-# upwork_url = 'https://www.upwork.com/freelance-jobs/python/'
-# url = 'https://hh.ru'
-# url = 'https://google.com'
+
+headers_list = [
+    {
+        'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729)',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    },
+    {
+        'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+     },
+    {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+     },
+    {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0',
+           'Accept': 'text / html, application / xhtml + xml, application / xml;q = 0.9, image / webp, * / *;q = 0.8'
+     },
+    {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    }
+]
+
 
 def hh_parser(site_url):
     hh_jobs_lst = []
-    errors_lst = []
-    response = requests.get(site_url, headers=gheaders)
+    hh_errors_lst = []
+    response = requests.get(site_url, headers=headers_list[randint(0, 4)])
     if response.status_code == 200:
         soup = BS(response.content, 'html.parser')
         main_div = soup.find('div', attrs={'class': 'vacancy-serp'})
@@ -37,20 +56,20 @@ def hh_parser(site_url):
                      }
                                    )
         else:
-            errors_lst.append({'url': site_url, 'title': 'The div does not exists'})
+            hh_errors_lst.append({'url': site_url, 'title': 'The div does not exists'})
     else:
-        errors_lst.append({'url': site_url, 'title': 'The page does not respond'})
+        hh_errors_lst.append({'url': site_url, 'title': 'The page does not respond'})
     # Saving the whole webpage:
     # with codecs.open('resp_cont.html', 'w', 'utf-8') as file:
     #     file.write(str(response.text))
-    return hh_jobs_lst, errors_lst
+    return hh_jobs_lst, hh_errors_lst
 
 
 def upwork_parser(site_url):
     domain = 'https://www.upwork.com'
     upwork_jobs_lst = []
-    errors_lst = []
-    response = requests.get(site_url, headers=gheaders)
+    upwork_errors_lst = []
+    response = requests.get(site_url, headers=headers_list[randint(0, 4)])
     if response.status_code == 200:
         soup = BS(response.content, 'html.parser')
         main_div = soup.find('div', attrs={'class': 'job-tiles-wrapper'})
@@ -71,19 +90,10 @@ def upwork_parser(site_url):
                      }
                                        )
         else:
-            errors_lst.append({'url': site_url, 'title': 'The div does not exists'})
+            upwork_errors_lst.append({'url': site_url, 'title': 'The div does not exists'})
     else:
-        errors_lst.append({'url': site_url, 'title': 'The page does not respond'})
+        upwork_errors_lst.append({'url': site_url, 'title': 'The page does not respond'})
     # Saving the whole webpage:
     # with codecs.open('resp_cont.html', 'w', 'utf-8') as file:
     #     file.write(str(response.text))
-    return upwork_jobs_lst, errors_lst
-
-
-if __name__ == '__main__':
-    upwork_url = 'https://www.upwork.com/freelance-jobs/python/'
-    jobs, errors = upwork_parser(upwork_url)
-    with codecs.open('upwork_parse.txt', 'w', 'utf-8') as file:
-        file.write(str(jobs))
-
-# class = 'job-tile-content'
+    return upwork_jobs_lst, upwork_errors_lst
