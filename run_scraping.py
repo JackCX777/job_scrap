@@ -1,5 +1,18 @@
 import codecs
+import os, sys
+
+
+project = os.path.dirname(os.path.abspath('manage.py'))
+sys.path.append(project)
+os.environ['DJANGO_SETTINGS_MODULE'] = 'job_scrap.settings'
+
+
+import django
+django.setup()
+
+
 from scrap.parsers import *
+from scrap.models import Vacancy, City, ProgrammingLanguage
 
 
 parsers = (
