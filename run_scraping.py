@@ -41,5 +41,5 @@ if __name__ == '__main__':
         except DatabaseError:
             pass
 
-    with codecs.open('parse_result.txt', 'w', 'utf-8') as file:
-        file.write(str(jobs_lst))
+    # with codecs.open('parse_result.txt', 'w', 'utf-8') as file:
+    #     file.write(str(jobs_lst))
