@@ -10,6 +10,7 @@ os.environ['DJANGO_SETTINGS_MODULE'] = 'job_scrap.settings'
 import django
 django.setup()
 from django.db import DatabaseError
+from django.contrib.auth import get_user_model
 
 
 from scrap.parsers import *
@@ -20,6 +21,15 @@ parsers = (
     (hh_parser, 'https://hh.ru/search/vacancy?area=1&fromSearchLine=true&st=searchVacancy&area=1&isDefaultArea=true&exp_period=all_time&logic=normal&pos=full_text&fromSearchLine=true&st=resumeSearch&areaId=113&st=employersList&text=python'),
     (upwork_parser, 'https://www.upwork.com/freelance-jobs/python/')
            )
+
+User = get_user_model()
+
+def get_settings():
+    query_set = User.objects.filter(send_email=True).values()
+    settings_set = set((q['city_id'], q['programming_language_id']) for q in query_set) # default unique set
+    return settings_set
+
+qq = get_settings()
 
 city = City.objects.filter(slug='moscow').first()
 program_language = ProgrammingLanguage.objects.filter(slug='python').first()
