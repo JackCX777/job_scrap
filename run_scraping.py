@@ -13,7 +13,7 @@ from django.db import DatabaseError
 
 
 from scrap.parsers import *
-from scrap.models import Vacancy, City, ProgrammingLanguage
+from scrap.models import Vacancy, City, ProgrammingLanguage, Error
 
 
 parsers = (
@@ -40,6 +40,8 @@ if __name__ == '__main__':
             vacancy.save()
         except DatabaseError:
             pass
+        if errors_lst:
+            error = Error(data=errors_lst).save()
 
     # with codecs.open('parse_result.txt', 'w', 'utf-8') as file:
     #     file.write(str(jobs_lst))
