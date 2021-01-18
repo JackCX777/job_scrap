@@ -4,6 +4,10 @@ from django.db.models import CharField
 from .utils import from_cyrillic_to_latin
 
 
+def default_urls():
+    return {'hh': '', 'upwork': ''}
+
+
 class City(models.Model):
     name = CharField(max_length=50, verbose_name='Название населенного пункта', unique=True)
     slug = CharField(max_length=50, blank=True, unique=True)
@@ -59,3 +63,13 @@ class Vacancy(models.Model):
 class Error(models.Model):
     timestamp = models.DateField(auto_now=True)
     data = jsonfield.JSONField()  # because there is no JSONField in sqlite3.
+
+
+class Url(models.Model):
+    city = models.ForeignKey('City', on_delete=models.CASCADE, verbose_name='Город')
+    programming_language = models.ForeignKey('ProgrammingLanguage', on_delete=models.CASCADE,
+                                             verbose_name='Язык программирования')
+    url_data = jsonfield.JSONField(default=default_urls)
+
+    class Meta:
+        unique_together = ('city', 'programming_language')

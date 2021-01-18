@@ -21,7 +21,7 @@ parsers = (
     (upwork_parser, 'https://www.upwork.com/freelance-jobs/python/')
            )
 
-city = City.objects.filter(slug='amsterdam').first()
+city = City.objects.filter(slug='moscow').first()
 program_language = ProgrammingLanguage.objects.filter(slug='python').first()
 
 jobs_lst, errors_lst = [], []
