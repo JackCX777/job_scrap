@@ -14,7 +14,7 @@ from django.contrib.auth import get_user_model
 
 
 from scrap.parsers import *
-from scrap.models import Vacancy, City, ProgrammingLanguage, Error
+from scrap.models import Vacancy, City, ProgrammingLanguage, Error, Url
 
 
 parsers = (
@@ -29,7 +29,22 @@ def get_settings():
     settings_set = set((q['city_id'], q['programming_language_id']) for q in query_set) # default unique set
     return settings_set
 
-qq = get_settings()
+
+def get_urls(_settings):
+    query_set = Url.objects.all().values()  # values() returns ids instead instances.
+    urls_dict = {(q['city_id'], q['programming_language_id']): q['url_data'] for q in query_set}
+    urls = []
+    for pair in _settings:
+        tmp = {}
+        tmp['city'] = pair[0]
+        tmp['programming_language'] = pair[1]
+        tmp['url_data'] = urls_dict[pair]
+        urls.append(tmp)
+    return urls
+
+q = get_settings()
+u = get_urls(q)
+
 
 city = City.objects.filter(slug='moscow').first()
 program_language = ProgrammingLanguage.objects.filter(slug='python').first()
