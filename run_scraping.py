@@ -9,6 +9,7 @@ os.environ['DJANGO_SETTINGS_MODULE'] = 'job_scrap.settings'
 
 import django
 django.setup()
+from django.db import DatabaseError
 
 
 from scrap.parsers import *
@@ -20,13 +21,25 @@ parsers = (
     (upwork_parser, 'https://www.upwork.com/freelance-jobs/python/')
            )
 
-jobs_lst, errors_lst = [], []
+city = City.objects.filter(slug='amsterdam').first()
+program_language = ProgrammingLanguage.objects.filter(slug='python').first()
 
+jobs_lst, errors_lst = [], []
 
 if __name__ == '__main__':
     for func, url in parsers:
         jobs, errors = func(url)
         jobs_lst += jobs
         errors_lst += errors
+
+    for job in jobs_lst:
+        # так как имена ключей словаря из файла parsers.py совпадают с моделью Vacancy,
+        # (url, title...) можно раскрыть словарь:
+        vacancy = Vacancy(**job, city=city, programming_language=program_language)
+        try:
+            vacancy.save()
+        except DatabaseError:
+            pass
+
     with codecs.open('parse_result.txt', 'w', 'utf-8') as file:
         file.write(str(jobs_lst))

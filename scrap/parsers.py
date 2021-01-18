@@ -86,7 +86,7 @@ def upwork_parser(site_url):
                         'title': vac_title,
                         'url': domain + vac_href,
                         'description': vac_content,
-                        'conditions': vac_conditions
+                        # 'conditions': vac_conditions
                      }
                                        )
         else:
