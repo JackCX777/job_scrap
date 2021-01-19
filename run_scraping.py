@@ -18,8 +18,8 @@ from scrap.models import Vacancy, City, ProgrammingLanguage, Error, Url
 
 
 parsers = (
-    (hh_parser, 'https://hh.ru/search/vacancy?area=1&fromSearchLine=true&st=searchVacancy&area=1&isDefaultArea=true&exp_period=all_time&logic=normal&pos=full_text&fromSearchLine=true&st=resumeSearch&areaId=113&st=employersList&text=python'),
-    (upwork_parser, 'https://www.upwork.com/freelance-jobs/python/')
+    (hh_parser, 'hh'),
+    (upwork_parser, 'upwork')
            )
 
 User = get_user_model()
@@ -42,25 +42,28 @@ def get_urls(_settings):
         urls.append(tmp)
     return urls
 
-q = get_settings()
-u = get_urls(q)
+settings = get_settings()
+url_list = get_urls(settings)
 
 
-city = City.objects.filter(slug='moscow').first()
-program_language = ProgrammingLanguage.objects.filter(slug='python').first()
+# city = City.objects.filter(slug='moscow').first()
+# program_language = ProgrammingLanguage.objects.filter(slug='python').first()
 
 jobs_lst, errors_lst = [], []
 
+
 if __name__ == '__main__':
-    for func, url in parsers:
-        jobs, errors = func(url)
-        jobs_lst += jobs
-        errors_lst += errors
+    for data in url_list:
+        for func, key in parsers:
+            url = data['url_data']['key']
+            jobs, errors = func(url, city=data['city'], programming_language=data['program_language'])
+            jobs_lst += jobs
+            errors_lst += errors
 
     for job in jobs_lst:
         # так как имена ключей словаря из файла parsers.py совпадают с моделью Vacancy,
         # (url, title...) можно раскрыть словарь:
-        vacancy = Vacancy(**job, city=city, programming_language=program_language)
+        vacancy = Vacancy(**job)
         try:
             vacancy.save()
         except DatabaseError:
