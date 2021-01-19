@@ -46,6 +46,7 @@
         "url": "https://hh.ru/vacancy/41040272?query=python",
         "title": "Python Backend разработчик",
         "company": "ООО Декаст Инжиниринг",
+        "conditions": "0",
         "description": "Требуемый опыт работы: 3–6 лет\r\nПолная занятость, полный день\r\nПривет, меня зовут Илья, я учился в МГТУ им. Баумана (ИУ7), в Технопарке Mail.ru Group, в NetCracker, и работал в Mail.ru Tarantool (https://github.com/tarantool/tarantool). Сейчас я - руководитель разработки приложений в компании Decast. (подробнее обо мне https://iproha94.github.io)\r\n\r\nDecast - крупнейший производитель и поставщик приборов учета воды и тепла на российском рынке, а также умных устройств. У нас несколько проектов: облачная IoT-платформа с интеграцией в цифровую экономику, умный город/дом, device-edge на raspberry-pi, уникальная библиотека декодинга сообщений от устройств на основе декларативного описания протоколов и энкодинга сообщений на основе json-схем, а также собственная WMS для нашего производства. Все проекты объединяются в масштабную экосистему!\r\n\r\nВ наших проектах на бэкенде мы используем: Python 3.8, Django 3.1, DRF, docker-compose, Gitlab-CI, Celery, rabbit-mq, pytest, InfluxDB, PostgreSQL, nginx, swagger и т.д., на фронтенде: React. Мы не только реализуем новую функциональность, но и обязательно выделяем время на рефакторинг, новые исследования, покрытие тестами (в основном проекте ~85%), внедряем новые практики и инструменты.\r\n\r\nТребования:\r\n\r\nопыт производственной разработки в команде на Django с Python 3 от 2-х лет;\r\nразработка на *nix + git.\r\nПлюсом будут:\r\n\r\nработа с большими данными, анализ данных, разработка парсеров и интеграций;\r\nподдержка высоконагруженных систем;\r\nиметь представление об HTTP, CoAP, MQTT, TCP, UDP, gRPC, REST, JSON, SOAP, XML;\r\nпрофильное образование: программирование/информатика/математика;\r\nинтерес к IoT, личное использование различных платформ умного дома;\r\nУсловия:\r\n\r\nоплата полностью декларируемая (официальная, \"белая\");\r\nработа в уютном офисе (чай, кофе, печеньки);\r\nдля иногородних предоставляется жилье в шаговой доступности от метро и офиса;\r\nграфик работы гибкий, но, желательно, с 12 до 18 всем сотрудникам быть в офисе;\r\nпосещение профильных конференций и курсов за счет компании;\r\nМосква: м. Полежаевская, м. Беговая, для сотрудников компании корпоративный транспорт от метро \"Улица 1905 года\". (но лично я хожу пешком, это полезно для здоровья, в условиях нашей сидячей работы)",
         "city": 1,
         "programming_language": 1,
@@ -59,6 +60,7 @@
         "url": "https://hh.ru/vacancy/40684972?query=python",
         "title": "Machine Learning Engineer (Computer Vision)",
         "company": "Tech5",
+        "conditions": "0",
         "description": "Требуемый опыт работы: не требуется\r\nПолная занятость, полный день\r\nМы ищем начинающего специалиста на вакансию Junior machine learning engineer в московский R&D отдел, который занимается разработкой технологий биометрической идентификации.\r\n\r\nКто нам нужен:\r\n\r\nНачинающий специалист в области deep learning (machine vision, image recognition, face recognition) или выпускник с профильным образованием и хорошей математической подготовкой. Базовые знания нейронных сетей обязательны. Наша предметная область - распознавание лиц, отпечатков пальцев и радужки, а также связанные технологии. Необходимо умение программировать на любом языке, достаточное для решения собственных задач.\r\n\r\nЕсли в вашем резюме нет релевантного опыта работы, то, пожалуйста, сразу присылайте ссылки на свои проекты по ML, если они у вас есть - задача, описание подхода, код, результат. Это могут быть дипломные работы, хакатоны и пр. В противном случае мы предложим вам сделать тестовое задание.\r\n\r\nТребования:\r\n\r\nВысшее математическое образование: предпочтительно - МГУ (мехмат, ВМК, физфак), МФТИ, ШАД\r\nХорошая математическая подготовка (знание аналитической геометрии, линейной алгебры и математической статистики);\r\nУверенное владение языками программирования С, C++, Python\r\nПрактический опыт работы с фреймворками глубокого обучения MXNet/TensorFlow/Caffe\r\nЗнание английского языка на уровне чтения научных статей и переписки обязательно\r\nЧто мы предлагаем:\r\n\r\nБелую зарплату, официальное трудоустройство по ТК РФ\r\nГибкий график работы (возможно совмещение с учебой на старших курсах и в аспирантуре)\r\nДМС после испытательного срока\r\nКомфортный офис около м. Сокол, Щукинская",
         "city": 1,
         "programming_language": 1,
@@ -72,6 +74,7 @@
         "url": "https://hh.ru/vacancy/40738213?query=java",
         "title": "Программист Java",
         "company": "Сбер для экспертов Москва",
+        "conditions": "0",
         "description": "Требуемый опыт работы: 3–6 лет\r\nПолная занятость, полный день\r\nИщем java разработчика к себе в команду. Ниже описание о нашем управлении и требования. Напишите, пожалуйста, ответным письмом интересно ли вам наше предложение.\r\n\r\nС нами ты сможешь как создавать классные продукты для клиентов, так и участвовать в технологической трансформации крупнейшего банка в стране.\r\n\r\nМы уже запустили такие сервисы , как:\r\n\r\nКарта путешественника;\r\nМультивалютная карта;\r\nЦифровая карта;\r\nПодписки;\r\nУстановка ПИН-кода в моб.приложении;\r\nАктивация карты;\r\nРазблокировка карты и многое другое, включая core - сервисы в концептуально новом исполнении для отделений Банка.\r\n\r\nПри этом мы учитываем развитие новых технологий и внедряем их в наши системы, не забывая про поддержание эталонной надежности.\r\n\r\nВпереди еще много вызовов! Тебя ждёт участие в абсолютно новых проектах, аналогов которым нет на рынке, при реализации которых мы обязаны не забывать про многомиллионную аудиторию(~60 млн. Клиентов).\r\n\r\nЕсли ты:\r\n\r\nРазрабатываешь на java(8-11);\r\nИмеешь опыт проектирования микросервисов и высоконагруженных систем;\r\nЛюбишь генерить новые идеи и подходы, не боишься ответственности;\r\nГотов к работе в команде, можешь конструктивно отстаивать свое мнение;\r\nЛюбишь изучать новые технологии и можешь придумать , как применить их на практике(адаптируя к прикладным задачам).\r\n\r\nКак мы работаем:\r\n\r\nВ офисе в стиле «чувствуй себя как дома», где много уютных мест и ты можешь с комфортом проводить рабочий день;\r\nПридерживаемся свободного стиля в одежде;\r\nЗанимаемся спортом (и ты давай с нами)!\r\nПаркуем машины на подземной парковке;\r\nУчимся каждый день чему-то новому не только друг у друга (свой университет, виртуальная школа, внутренние тренинги, семинары, митапы, мастер-классы).\r\nА ещё у нас ДМС, Льготные программы на кредитование и многое другое",
         "city": 1,
         "programming_language": 2,
@@ -85,10 +88,5471 @@
         "url": "https://hh.ru/vacancy/40628334?query=java",
         "title": "Java developer",
         "company": "KUPIVIP.RU",
+        "conditions": "0",
         "description": "Требуемый опыт работы: 3–6 лет\r\nПолная занятость, полный день\r\nТребования:\r\n\r\nВысшее техническое образование;\r\nОпыт работ ведущим разработчиком от 3-х лет;\r\nОтличные знания и опыт разработки на Java (JDK 8);\r\nТеоретические знания по информатике (алгоритмы, классы сложности, абстрактные типы и структуры);\r\nХорошее знание и опыт работы с Mongo DB, Elastic Search, Spring Boot;\r\nПонимание принципов работы многопоточных систем и умение его применять;\r\nОпыт разработки микросервисов;\r\nВозможность контроля полного цикла разработки (включая Java Script);\r\nПриоритет на производство поддерживаемого кода;\r\nАнглийский на уровне чтения документации.\r\nПлюсами будут:\r\n\r\n-Знание и опыт работы с базами данных (SQL, noSQL, document, columm-oriented, fulltext);\r\n\r\n-Работа с поисковыми системами\r\n\r\nОбязанности:\r\n\r\nПроектирование и создание архитектуры ПО;\r\nРазработка и отладка программного кода;\r\nНаписание, тестирование и поддержка старой и новой функциональности;\r\nРабота со средствами автоматизированного тестирования\r\nУсловия:\r\n\r\nГрафик работы: 5/2, пн-пт 09:00-18:00 (нам требуется сотрудник на долговременную работу в штат);\r\nОклад+полугодовые бонусы (100% белая компания);\r\nОформление по ТК РФ;\r\nПрофессиональная команда;\r\nРабота в динамично развивающейся, инновационной компании.",
         "city": 1,
         "programming_language": 2,
         "timestamp": "2020-12-24"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 5,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41639826?query=python",
+        "title": "Backend-разработчик",
+        "company": " Дневник (ИП Квирквелия Леван Теимуразович)",
+        "conditions": "0",
+        "description": "Тебе нравится культура делегирования задач в SaaS: не создавать админку, а использовать Retool или Airtable (у нас реально 0 админок...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 6,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41601415?query=python",
+        "title": "Senior программист-разработчик (Python\\Django)",
+        "company": " CATAPULTO.RU",
+        "conditions": "0",
+        "description": "Участие в проектировании систем. Разработка нового функционала на Django. Рефакторинг текущей кодовой базы. Поиск ошибок, их устранение. Разработка интеграций с...Опыт работы с MySQL / Postgres. Опыт работы с Sphinx. Опыт работы c redis / rabbitmq. Опыт работы с docker / docker-compose. ",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 7,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41486400?query=python",
+        "title": "Python junior (удалённо)",
+        "company": " InterGroup",
+        "conditions": "0",
+        "description": "Договор NDA. Мониторинг работы через тайм трекер.Рассматриваем строго Высшее образование в высшем учебном заведении по специальности, начиная со 2го курса универа. Без исключений. ",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 8,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41663731?query=python",
+        "title": "Разработчик Python / Django",
+        "company": " Дизайн Депо",
+        "conditions": "0",
+        "description": "писать бек к новым проектам. – поддерживать старые проекты. – писать документацию к сделанным проектам.Python 3 / Django от года. – PEP 8. – хорошее знание Django ORM, умение составлять оптимальные SQL-запросы. – знакомство с *nix системами...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 9,
+    "fields": {
+        "url": "https://hh.ru/vacancy/40018645?query=python",
+        "title": "Junior Backend Developer (Python)",
+        "company": " Postuf",
+        "conditions": "0",
+        "description": "Участие в создании и развитии серверной части наших приложений. Работа с высоконагруженными сервисами. Поддержка и развитие существующих решений - бэкенд, базы...Опыт разработки на Python. Общее понимание принципов ООП. Базовое знание SQL и опыт работы с базами данных. Плюсом будет работа...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 10,
+    "fields": {
+        "url": "https://hh.ru/vacancy/40847256?query=python",
+        "title": "Стажер - Python-разработчик (Django, DRF)",
+        "company": "ООО Фабрика Решений",
+        "conditions": "0",
+        "description": "Учиться разбираться в чужом коде. Cоставлять сложные SQL-запросы (в частности, PostgreSQL) и оптимизировать их. Внимание: с командами не работаем...Основные технологии проекта: Django 2.2, DRF, PostgreSQL. Работать с django 2.*, python 3.7, djangorestframework. Работать с регулярными выражениями. ",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 11,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41549707?query=python",
+        "title": "Программист Python",
+        "company": " Insilico Medicine",
+        "conditions": "0",
+        "description": "Техническое образование или эквивалентный практический опыт. Хороший опыт разработки на Python. Опыт разработки веб-приложений. Алгоритмическая подготовка. Опыт с некоторыми...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 12,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41649102?query=python",
+        "title": "Senior Backend-разработчик (Python)",
+        "company": " Hoodies",
+        "conditions": "0",
+        "description": "Практиковать написание тестов.Обязательно. Хорошо знать Python. Знание фреймворка Django и/или Flask/Pyramid/Tornado. Знание SQL, опыт работы с реляционными базами данных...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 13,
+    "fields": {
+        "url": "https://hh.ru/vacancy/40918573?query=python",
+        "title": "Middle/Senior Backend Developer (Python)",
+        "company": " Postuf",
+        "conditions": "0",
+        "description": "Участие в создании и развитии серверной части наших приложений. Работа с высоконагруженными сервисами. Поддержка и развитие существующих решений - бэкенд, базы...Опыт разработки на Python + Django. Уверенное знание принципов ООП и основных шаблонов проектирования. Знание SQL и опыт работы с...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 14,
+    "fields": {
+        "url": "https://hh.ru/vacancy/30005963?query=python",
+        "title": "Senior Python developer",
+        "company": " NetworkOptix",
+        "conditions": "0",
+        "description": "Разрабатываем на Python 3.7. Используем pytest в качестве тестового фреймворка. Храним код в Git/Gerrit. Проводим ревью в Gerrit...Хорошего знания Python. От 3 лет опыта коммерческой разработки. Общих знаний computer science.",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 15,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41131700?query=python",
+        "title": "Python разработчик",
+        "company": " Филиал компании Лист Ренталс Лимитед",
+        "conditions": "0",
+        "description": "Непосредственное участие в разработке уникальных продуктов, которые изменят целую отрасль.Техническое образование или эквивалентный практический опыт. Хороший опыт разработки на Python. Опыт разработки веб-приложений. Не понаслышке знать про aiohttp...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 16,
+    "fields": {
+        "url": "https://hh.ru/vacancy/40965569?query=python",
+        "title": "Программист С++",
+        "company": " APOLLO",
+        "conditions": "0",
+        "description": "Проектирование новых модулей, расширение функционала существующих. Разработка, отладка, тестирование и первичное документирование программных модулей. Поддержка и исправление ошибок в существующих...Способность разбираться в чужом коде самостоятельно. Ответственность, высокая производительность. Дополнительным плюсом будут: Python. C#, .NET. Опыт работы с Gitlab/Gitlab...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 17,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41057654?query=python",
+        "title": "Senior/Middle ML Engineer / Data Scientist",
+        "company": "ООО Адаперио",
+        "conditions": "0",
+        "description": "Разработка и внедрение моделей машинного обучения для оценки качества и ликвидности автомобиля с пробегом. Анализ датасетов, их подготовка, валидация. Уверенное знание SQL (мы это точно проверим на собеседовании). Знание современных алгоритмов ML/DL, CV. Знание мат статистики. Python.",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 18,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41187077?query=python",
+        "title": "Senior Software Engineer (Python)",
+        "company": "ООО Алемира Рисерч",
+        "conditions": "0",
+        "description": "Designing, developing and maintaining reliable and scalable services for cloud-based digital learning ecosystem.3+ years experience in Python, good knowledge of Django. Good knowledge of containers and networking. Ability to speak and...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 19,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41025196?query=python",
+        "title": "Python Backend Developer / WEB - разработчик",
+        "company": "ООО Перфект Системс",
+        "conditions": "0",
+        "description": "Обязанности web-разработка, 85% backend / 15% database.Знание возможностей Python и экосистемы Python (модули, IDE, shell & bash). Опыт настройки среды Linux / Unix с помощью инструментов Python. ",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 20,
+    "fields": {
+        "url": "https://hh.ru/vacancy/40710424?query=python",
+        "title": "Lead Backend Developer (Python)",
+        "company": " AppQuantum",
+        "conditions": "0",
+        "description": "Платформа сбора-обработке данных, на которой все это работает. Стек: Python (pandas, flask, async), SQL (clickhouse, postgreSQL), Linux, Airflow, Tableau...Фулл стэк бэкенд разработчик с уровнем lead и выше, который сможет менторить команду по техническим вопросам, контролировать качество реализации, проводить...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 21,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41467833?query=python",
+        "title": "Senior QA Automation Engineer (Python)",
+        "company": " Scalable Solutions",
+        "conditions": "0",
+        "description": "Будет плюсом: Опыт автоматизированного тестирования больших распределенных систем. Опыт нагрузочного тестирования. Знание Python/Pytest. Опыт в финтехе. Людям, увлеченным финтехом...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 22,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41491719?query=python",
+        "title": "Data scientist",
+        "company": "АО НТЦ ЕЭС Информационные Комплексы",
+        "conditions": "0",
+        "description": "Анализировать источники данных на предмет возможности их использования в решаемых задачах. Готовить, собирать, очищать структурированные и неструктурированные исходные данные для...Опыт работы в области DS от 1 года. Понимание алгоритмов машинного обучения и основ статистического анализа. Умение работать с реляционными...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 23,
+    "fields": {
+        "url": "https://hh.ru/vacancy/40892909?query=python",
+        "title": "Senior Python Backend Developer / WEB - разработчик",
+        "company": "ООО Перфект Системс",
+        "conditions": "0",
+        "description": "Обязанности web-разработка, 85% backend / 15% database.Знание возможностей Python и экосистемы Python (модули, IDE, shell & bash). Опыт настройки среды Linux / Unix с помощью инструментов Python. ",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 24,
+    "fields": {
+        "url": "https://hh.ru/vacancy/39736489?query=python",
+        "title": "Python-разработчик (Django, DRF)",
+        "company": "ООО Фабрика Решений",
+        "conditions": "0",
+        "description": "Внимание: с командами не работаем, только с индивидуальными исполнителями. Профессиональный рост и участие в построении архитектур сложных систем.Опыт разработки сложных проектов. Обязателен опыт работы с django 2.*, python 3.7, djangorestframework. Знание SQL (в частности, PostgreSQL) и...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 25,
+    "fields": {
+        "url": "https://hh.ru/vacancy/40977981?query=python",
+        "title": "Backend python/Django разработчик",
+        "company": "ООО БОЛЬШАЯ ТРОЙКА",
+        "conditions": "0",
+        "description": "Проектировать и разрабатывать серверные приложения (backend) сложных web-порталов в agile команде. Прямо сейчас в разработке информсистема масштабов региона с...От 3 лет промышленной разработки на Python. Отличное знание и владение: Python. Django. Django REST framework. PostgreSQL. Опыт создания архитектуры...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 26,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41556636?query=python",
+        "title": "Backend-разработчик Python + Django (Middle/Senior)",
+        "company": " Zonesmart",
+        "conditions": "0",
+        "description": "Разработка собственного API. Интеграция сторонних сервисов с помощью API (маркетплейсы, службы доставки, оплата и т.д.). Участие в полном цикле...Уверенное владение Python (версии 3+). Опыт разработки веб-приложений на Django и Django REST Framework.",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 27,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41425645?query=python",
+        "title": "Machine Learning Engineer / Data Scientist",
+        "company": " Gravitum",
+        "conditions": "0",
+        "description": "Работа напрямую с командами в США над продуктовым решением. Разработка и внедрение моделей машинного обучения. Анализ больших датасетов, их подготовка...Знание современных алгоритмов ML/DL, CV. Знание мат статистики. Знание Python. Уровень английского языке Upper Intermediate или выше. Приветствуется. ",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 28,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41098662?query=python",
+        "title": "Разработчик Python / Data Engineer",
+        "company": " Dalytics",
+        "conditions": "0",
+        "description": "Строить системы Data Mining. Проектировать и реализовывать ETL-процессы. Собирать Data Pipeline для работы моделей (Kafka + ClickHouse). Пишете на 3.6+ Python и имеете любимые пакеты. Умеете работать с брокерами сообщений (Kafka, celery, etc.) и базами...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 29,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41160165?query=python",
+        "title": "Python/Django разработчик",
+        "company": "ООО ИДАГРУПП",
+        "conditions": "0",
+        "description": "Разработка API. Интеграция сторонних сервисов. Участие в полном цикле разработки - проектирование, программирование, тестирование, поддержка. Контролирование качества кода. Администрирование серверов. Опыт работы с контейнерами docker. Практический опыт автоматизации развертывания приложений. Python3. Django. Django REST Framework. Celery. Redis. PostgreSQL. Nginx. ",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 30,
+    "fields": {
+        "url": "https://hh.ru/vacancy/40115067?query=python",
+        "title": "Python (Django) developer",
+        "company": " evrone.ru",
+        "conditions": "0",
+        "description": "Прямо сейчас мы разрабатываем продукты в направлениях: fintech, портальные решения и сми, medtech, видео/стриминг сервисы, erp/crm системы, маркетплейсы...Хорошее знание Python 3 в целом и Django в частности. Умение пользоваться РСУБД не только через ORM. Наличие опыта проектирования...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 31,
+    "fields": {
+        "url": "https://hh.ru/vacancy/39388485?query=python",
+        "title": "Senior Python Backend Developer (Machine Learning)",
+        "company": " FunCorp",
+        "conditions": "0",
+        "description": "Сервис распознавания текста из изображений. Сервис нечёткого поиска дубликатов изображений. Сервис рекомендаций контента. Сервис предварительной оценки загружаемого контента. Отлично знать Python 3, Flask или Gunicorn, иметь опыт написания асинхронного кода с использованием AsyncIO. Иметь опыт построения и поддержки...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 32,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41620935?query=python",
+        "title": "Python Architect",
+        "company": " Russian Quantum Center",
+        "conditions": "0",
+        "description": "Мы ищем опытного архитектора для формирования структуры платформы, компоновки и интеграции вычислительных элементов в единый вычислительный комплекс, детализации технических требований...Опыт коммерческой разработки архитектуры ПО от 5-ти лет. Опыт разработки на Python от 5-ти лет, желательно знание C++. ",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 33,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41485030?query=python",
+        "title": "Разработчик Python (Middle)",
+        "company": "ИП Рыжков Даниил Алексеевич",
+        "conditions": "0",
+        "description": "DevOps-сопровождение разработчика: подготовим CI/CD, Sentry, Docker, Kubernetes.Опыт работы с бекенд-фреймверком. Мы работаем с Python и Django (в последнее время Fast API), опыт приветствуется, но также...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 34,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41149947?query=python",
+        "title": "Python-Разработчик (удаленно)",
+        "company": " BestDoctor",
+        "conditions": "0",
+        "description": "Ядро: ключевая архитектура и API нашей айти-инфраструктуры. Пользовательская разработка: мобильные приложения, веб-кабинеты, API для внешних интеграций. Опыт коммерческой разработкой на Python от 3 лет, хорошее знание самого языка, умение работать с Django, с PostgreSQL. ",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 35,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41567280?query=python",
+        "title": "Python Developer",
+        "company": " Кадровое агентство Юнити",
+        "conditions": "0",
+        "description": "Голосовые помощники и чат-боты. Инструменты, которые помогают повысить скорость работы с обращениями всех корп. клиентов банка. Инструменты анализа обращений.Уверенное программирование на Python 3.6+. Примеры успешных разработанных решений в продакшн. Знание шаблонов проектирования и принципов разработки, умение...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 36,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41135938?query=python",
+        "title": "C++ / Python разработчик ( Senior / Middle )",
+        "company": " L3 Technologies",
+        "conditions": "0",
+        "description": "Оптимизация торговых движков и разработка их архитектуры. Написание вспомогательных инструментов для анализа/обработки данных (фильтрация, визуализация, конвертация, связка Python-C++).Промышленный опыт программирования на C++ (стандарт 11 и выше) и Python: хорошее знакомство с их стандартными библиотеками и идиомами/паттернами...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 37,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41620380?query=python",
+        "title": "Python-разработчик",
+        "company": " Новакид РУС",
+        "conditions": "0",
+        "description": "Работа со стеком технологий: Python 3.6, Pyramid, PostgreSQL, SQLAlchemy, Celery, Rabbitmq, Redis, Buildout, Rest API, немного JS (тех админка...Опыт удаленной работы. Опыт работы с нашим стеком (см выше), любыми Python фреймворками (Bottle, Django, Flask, Pyramid и т.п...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 38,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41524273?query=python",
+        "title": "Senior Python developer / teamlead",
+        "company": " ASD Korea",
+        "conditions": "0",
+        "description": "Участие в разработке бэкенда Cloudike Business, ПК клиента Cloudike. Написание и поддержка юнит-тестов для своего кода. Участие в код...Python, Django, Mongoengine, Celery, RabbitMQ. Linux, Docker, Git, Jenkins. Watchdog, pyqt4 & pyqt5 python packages. OSX & Windows application build...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 39,
+    "fields": {
+        "url": "https://hh.ru/vacancy/40323218?query=python",
+        "title": "Python разработчик",
+        "company": " AGIMA",
+        "conditions": "0",
+        "description": "Вы станете первым специалистом внутренней команды разработки, в будущем, возглавите эту команду. Разработка ERP системы под внутренние процессы компании. Имеешь опыт от трёх лет и обладаешь уверенными знаниями: Python (Django, FastAPI, aiohttp), Postgres, Redis (или другие хранилища), RabbitMQ. ",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 40,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41228202?query=python",
+        "title": "Middle python разработчик",
+        "company": "ООО Брейн Компани",
+        "conditions": "0",
+        "description": "Разработка серверных приложений (backend). Разработка новых функций продукта, проектирование архитектуры проекта.Навыки: Разработка ПО (Middle), Django, Python, Git, PostgreSQL. Опыт промышленной разработки на Python. Понимание клиент-серверной архитектуры и протоколов: TCP...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 41,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41508446?query=python",
+        "title": "Java/Python developer - dbIQ",
+        "company": " Deutsche Bank Technology Center",
+        "conditions": "0",
+        "description": "Researchers to write efficient quantitative code leveraging your understanding of the Python scientific stack. Your key responsibilities: - Help apply technology...Your skills and experience: - Good understanding of the Python scientific stack. - Experience in Python development (including unit testing). - ",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 42,
+    "fields": {
+        "url": "https://hh.ru/vacancy/40840868?query=python",
+        "title": "Teamlead Backend (Python)",
+        "company": "ООО Фабрика Решений",
+        "conditions": "0",
+        "description": "Руководить командой разработки. Проектировать архитектурных решений и их документирование. Ставить технические задачи команде (совместно с аналитиком). Обеспечение технического качества продукта. Опыт разработки сложных проектов. Обязателен опыт работы с django 2.*, python 3.7, djangorestframework. Знание баз данных: PgSQL, MySQL, Redis...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 43,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41150286?query=python",
+        "title": "Backend разработчик Python (Django) (middle+/senior)",
+        "company": "ООО Нова",
+        "conditions": "0",
+        "description": "Работа в дружной команде. Back-end разработка на Python 3.8+. Проектировать и разрабатывать новые высоконагруженные сервисы , API сервисов...Опыт разработки ПО на языке программирования Python от 3+ лет. Практический опыт работы с Django (Django ORM, Django Rest...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 44,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41466358?query=python",
+        "title": "Ведущий разработчик Python",
+        "company": "ООО А 3",
+        "conditions": "0",
+        "description": "Поддержка работоспособности и развитие и оптимизация текущей экосистемы. Разработка новых модулей на Python 3.x. Разработка и реализация автотестов. Опыт работы от 3х лет. Высшее техническое образование. Python 3.x (понимание работы механизмов языка на низком уровне, структур...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 45,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41649001?query=python",
+        "title": "Старший Python разработчик (Senior Developer/Lead)",
+        "company": "ООО PROGNET",
+        "conditions": "0",
+        "description": "С++. Nginx (веб сервер).Желательно: Опыт работы в Agile. Опыт распределенной разработки (работа с GitHub/GitLab). Ключевые навыки: Python. HTML / JS / CSS. PostgreSQL. ",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 46,
+    "fields": {
+        "url": "https://hh.ru/vacancy/36267171?query=python",
+        "title": "Python developer",
+        "company": " B2Broker Москва",
+        "conditions": "0",
+        "description": "Имеет опыт коммерческой разработки на Python 3 от 6 лет. Знает и умеет использовать: итераторы, генераторы, потоки. Отлично владеет знаниями...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 47,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41174193?query=python",
+        "title": "Python-разработчик (Middle)",
+        "company": " Латера",
+        "conditions": "0",
+        "description": "Часть биллинга, написанная на Python у нас особо ответственная — она принимает платежи и обрабатывает сотни запросов в секунду на предоставление...Опыт промышленной разработки на Python от года. Опыт работы с реляционными базами данных. Надо понимать не только как сделать запросы...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 48,
+    "fields": {
+        "url": "https://hh.ru/vacancy/40835889?query=python",
+        "title": "Разработчик Python",
+        "company": " ДомКлик",
+        "conditions": "0",
+        "description": "...Python. Участие в проектировании архитектуры, выработке решений по отказоустойчивости и производительности. Разработка бэкэнда для мобильных и веб-приложений на Python. Опыт работы в области создания программного обеспечения в качестве разработчика от 2 лет. Опыт работы хотя бы с одним из...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 49,
+    "fields": {
+        "url": "https://hh.ru/vacancy/39430683?query=python",
+        "title": "Senior Python developer",
+        "company": " CoMagic",
+        "conditions": "0",
+        "description": "Сервиса обработки звонков. Сервиса чата (онлайн – консультант). Сервиса REST API. Сервиса сбора аналитической информации посетителей сайта. Сервиса массовых уведомлений (смс...Отличное знание Python 2.7/3.5. Опыт работы в командах над крупными проектами, доведенными до эксплуатации где было: Code...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 50,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41638299?query=python",
+        "title": "Middle-разработчик full-stack (Python/Django)",
+        "company": "ООО АлгоМост",
+        "conditions": "0",
+        "description": "Разработка нового функционала в существующих сервисах. Рефакторинг кода. Разработка новых сервисов.Стек технологии: Python 3, Django, SQL, HTML, CSS, Linux, Git, Docker, JavaScript , Vue.js/React, DRF. Высшее образование. Оперативность, ответственность, аналитическое...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 51,
+    "fields": {
+        "url": "https://hh.ru/vacancy/39782469?query=python",
+        "title": "Python разработчик",
+        "company": " Билайн",
+        "conditions": "0",
+        "description": "Участие в планировании и проектировании задач. Разработка серверной части web-приложений на языке Python. Проведение code review. Написание UNIT и...Уверенное знание Python. Опыт работы с Django/DjangoRestFramework. Навыки программирования (ООП, паттерны, чистый код). Опыт командной работы с системой контроля...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 52,
+    "fields": {
+        "url": "https://hh.ru/vacancy/39349530?query=python",
+        "title": "Разработчик на Python (Full stack)",
+        "company": "ООО Комплектэнерго",
+        "conditions": "0",
+        "description": "Разработка части Backend и Front-endна Python. Поиск ошибок, их устранение. Участие в полном цикле разработки.Хорошие знания Python 3+. Понимание архитектуры современного бэкенда и фронтенда. Приветствуется умение работать с фреймворками Vue/Vuex. ",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 53,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41630061?query=python",
+        "title": "Golang/Python разработчик (backend)",
+        "company": "ООО Скайлав Рус",
+        "conditions": "0",
+        "description": "Проектирование и разработка ключевых backend сервисов. Проектирование архитектуры приложений, согласование ключевых решений. Ведение проектной технической документации. Принятие участия в совершенствовании...Хорошее владение одним из языков: Golang или Python (приветствуется также Javascript, PHP). Опыт работы с Postgres/MariaDB/Mongo/Redis. ",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 54,
+    "fields": {
+        "url": "https://hh.ru/vacancy/40261872?query=python",
+        "title": "Backend QA Automation Engineer (Python)",
+        "company": " Voximplant",
+        "conditions": "0",
+        "description": "Тестирование API Voximplant. Поддержка и развитие существующего фреймворка тестирования. Улучшение процессов CI\\CD со стороны тестирования системы. Развитие документации на...Опыт написания автотестов от 1 года на стеке Python + Pytest. SQL на базовом уровне (написание простых запросов с SELECT...",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 55,
+    "fields": {
+        "url": "https://www.upwork.com/job/Backend-Developer-needed-for-creating-MVP-for-eye-tracking-software_~01b8162e9401265801/",
+        "title": "Backend Developer needed for creating an MVP for eye tracking software",
+        "company": "",
+        "conditions": "0",
+        "description": "Hello,\nWe are a start up working on eye tracking technology!\nWe are looking for a developer who is able to build a software that takes videos of people's faces as input and outputs data points like size, displacement, velocity, trajectory of the pupil, size of the eye, rate of blinking, gaze position.\nThis project would act as an MVP of our product and if we are impressed with your work, we will b…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 56,
+    "fields": {
+        "url": "https://www.upwork.com/job/Automation-Engineer_~0189eba3b6bf193603/",
+        "title": "Automation QA Engineer ТОЛЬКО РОССИЯ (удаленно)",
+        "company": "",
+        "conditions": "0",
+        "description": "Расматривается удаленное сотрудничество.\n\nНаш клиент: российская ИТ компания, разрабатывающая свой продукт - авторизованная система управления рекламой ВКонтакте и myTarget.\nОснователь компании - директор по продукту, спикер и опытный разработчик приложений и аналитических инструментов для руководителей и специалистов в области рекламы.\n\nПро проект:\nВы будете участвовать в процессе доработки функц…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 57,
+    "fields": {
+        "url": "https://www.upwork.com/job/Game-developer-unity-designer-Ludo-Game_~0118d6390ac7a5bb6f/",
+        "title": "Game developer 3D unity, designer, Ludo Game",
+        "company": "",
+        "conditions": "0",
+        "description": "Ludo game..........................................",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 58,
+    "fields": {
+        "url": "https://www.upwork.com/job/Python-developer-needed-for-wiki-migration_~0138af458fb0f97175/",
+        "title": "Python developer needed for wiki migration",
+        "company": "",
+        "conditions": "0",
+        "description": "We want to migrate our software documentation from TWiki to Confluence. Since our documentation is rather extensive we are looking for an automated way to move the content from one platform to the other without having to manually copy over and adjust everything.\n\nThe migration should for example already convert the TWiki markup to the format used by Confluence and convert TWiki makros to the accor…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 59,
+    "fields": {
+        "url": "https://www.upwork.com/job/Repair-site-parser-Python_~01a03336680b56ea6c/",
+        "title": "Repair site parser (Python)",
+        "company": "",
+        "conditions": "0",
+        "description": "There is a code that previously worked without problems, parsed sites\n\ncareer_builder\n\ncraigslist\n\nidealist\n\nindeed\n\nmonster\n\nnow it does not work 100%, you need to deal with errors and restore full work",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 60,
+    "fields": {
+        "url": "https://www.upwork.com/job/Open-Edx-Expert_~0178f156f7a5aabed1/",
+        "title": "Open Edx Expert",
+        "company": "",
+        "conditions": "0",
+        "description": "We are looking for someone who is an expert on Open Edx platform. This is a long term commitment with rewarding income for a very long time. I will share more details with selected candidate.\n\nThe budget is a placeholder which we will finalize after the discussion.",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 61,
+    "fields": {
+        "url": "https://www.upwork.com/job/Senior-Python-Developer-for-Big-Data-project_~018b96e3293cea0905/",
+        "title": "Senior Python Developer for Big Data project",
+        "company": "",
+        "conditions": "0",
+        "description": "We are looking for Senior Python Developer with architect level of backend development. Right now there's one Big Data project that requires work on it. We need this person to verify the source code and services that have been fully provided by previous developer who left us. We need to be able to make an update to the software, deploy it, and verify we have what we need to take over the software.…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 62,
+    "fields": {
+        "url": "https://www.upwork.com/job/Implement-arlo-API-allow-LTE-cameras-capture-and-upload-data-through-our-existing-webportal_~01453fa46ee580f2b6/",
+        "title": "Implement arlo API to allow 4g LTE cameras to capture and upload data through our existing webportal",
+        "company": "",
+        "conditions": "0",
+        "description": "This project will implement an external camera manufacturer's API with our online portal (CMS) allowing for data transfer from the manufacturers cloud service. We are looking for a rockstar who can deliver a functional integration and hand it off to our front end within \n\nDelivery Deadline: January 28, 2021\nMaximum number of hours budgeted for this task: 20\n\nDeliverable will be the ability to perf…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 63,
+    "fields": {
+        "url": "https://www.upwork.com/job/Need-expert-developer-for-BPMN-workflow-implementation_~01778d86ed8caee601/",
+        "title": "Need an expert developer for BPMN 2.0 workflow implementation",
+        "company": "",
+        "conditions": "0",
+        "description": "Need an expert developer for BPMN 2.0 workflow implementation in big saas product. Experience with any of the below would work.\n\nCamunda workflow with BPMN js and camunda engine, Processmaker, Kissflow, Bonita \n\nIf you are able to show your expertise initially, it will be a long term association as its a huge project",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 64,
+    "fields": {
+        "url": "https://www.upwork.com/job/AWS-Systems-automation-and-operation-backend-app-development_~0144c0d00c9ca9f413/",
+        "title": "AWS, Systems, automation, and operation backend app development",
+        "company": "",
+        "conditions": "0",
+        "description": "automated workflows build on server-less AWS technologies\nmust have extensive experience with Amazon Web Services",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 65,
+    "fields": {
+        "url": "https://www.upwork.com/job/FrontEnd-Developer_~017a25068324ca4e7b/",
+        "title": "FrontEnd Developer",
+        "company": "",
+        "conditions": "0",
+        "description": "Job Description\n\nWe are looking for a Front-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translation of the UI/UX design wireframes to actual code that will produce visual elements of the application. You will also be tasked with creating SPs to ensure that the data being delivered to clients is in an actionable format.…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 66,
+    "fields": {
+        "url": "https://www.upwork.com/job/Long-Term-Developer-Consultant-Work-BigData-company_~0150a5e1f1036bc1e8/",
+        "title": "[Long Term] Developer / Consultant - Work in an AI/BigData company!",
+        "company": "",
+        "conditions": "0",
+        "description": "Hi All,\nWe are a large Swedish multinational corporation.\nWe develop Machine learning based algorithms to predict failures on industrial machines.\nWe work with Big Data pipelines running in the cloud. You will join a team developing a fully automated ML pipeline designed to provide advanced analytics for the industrial world using streaming sensorial data as input.\nLooking for a highly responsible…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 67,
+    "fields": {
+        "url": "https://www.upwork.com/job/Metaverse-Data-Engineer_~01bb0840f9d6ff18a4/",
+        "title": "Metaverse Data Engineer",
+        "company": "",
+        "conditions": "0",
+        "description": "The deliverable is creating a database that can store float values safely and securely using HTTP requests, Python, and Roblox Lua.\nThe database must be able to read and write in real time or at least synchronized with value changes to provide meaningful data.\nWe are looking for someone who knows the difference between centralized and decentralized data storage, who can work well with Developers o…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 68,
+    "fields": {
+        "url": "https://www.upwork.com/job/Instagram-for-shopping-product-Seeking-Machine-Learning-Computer-Vision-Engineers_~0129008e78c3832f0d/",
+        "title": "Instagram for shopping product - Seeking Machine Learning, Computer Vision Engineers",
+        "company": "",
+        "conditions": "0",
+        "description": "We at https://www.smartshop.social/ had spent $10,000+ USD so far and offer competitive pay for media pipe experts, computer vision experts, machine learning, and data scientists.\n\nPrecisely we are seeking to help improve our current live and image try-on https://www.smartshop.social/ to match the standards of https://www.lorealparisusa.com/virtual-try-on/makeup.aspx\n\nPlease don't apply if are NOT…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 69,
+    "fields": {
+        "url": "https://www.upwork.com/job/GIS-scripter-needed-for-custom-auto-tabulation-hosted-feature-layers-ArcGIS-Pro-AGOL_~01b3dae7645e45965c/",
+        "title": "GIS scripter needed for custom auto tabulation of hosted feature layers in ArcGIS Pro or AGOL",
+        "company": "",
+        "conditions": "0",
+        "description": "We are seeking an individual to write custom scripts to publish geospatial datasets in pro or AGOL which use geoprocessing tools such as \"summarize within\" with various kinds of filters. Those datasets will then need to be compared against either excel tables or stand-alone tables within ArcGIS Pro or AGOL for comparison purposes. \n\nOnce setup, the tools will need to be used on a regular, though n…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 70,
+    "fields": {
+        "url": "https://www.upwork.com/job/Full-Stack-Developer-Master-Front-End-Web-Development-and-Tracking-Analytics_~01c592ab1ff9f3e212/",
+        "title": "Full Stack Developer - Master of Front End Web Development and Tracking Analytics",
+        "company": "",
+        "conditions": "0",
+        "description": "Hello, \n\nWe are an internet marketing company based in Las Vegas, NV with a worldwide team seeking a Full Stack Developer to assist with our operations. Must be organized and reliable. \n\nWe're looking for someone on a per project basis which could quickly turn into a part time role. Ideally you are such a rockstar that you can finish our deliverables quickly. \n\nResponsibilities:\n\n- Putting togethe…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 71,
+    "fields": {
+        "url": "https://www.upwork.com/job/Building-Copywriting-Generator-Using-GPT-API_~0186f4a77181acc3dc/",
+        "title": "Building Copywriting Generator Using GPT-3 API",
+        "company": "",
+        "conditions": "0",
+        "description": "We are looking for a full-stack developer to build a UI interface that sets on top of GPT3 API (OpenAI). The new interface will have two main functions; to generate Ad copy and to write blog posts.\n\nYou must have strong background in building applications using 3rd party API. \nYou must have strong product development and architecture background.",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 72,
+    "fields": {
+        "url": "https://www.upwork.com/job/Visual-Perception-task-Psychopy_~01170ac6956fe664a5/",
+        "title": "Visual Perception task in Psychopy",
+        "company": "",
+        "conditions": "0",
+        "description": "Hello, this project is for my thesis. It is a visual perception task about change detection. A change detection task involves a study slide (screen with random shapes at random locations), an interval (blank screen), and finally a test slide (screen with same shapes in potentially different locations). The change detection occurs during the test slide, where participants are prompted to choose whe…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 73,
+    "fields": {
+        "url": "https://www.upwork.com/job/PHP-CSS-JAVASCRIPT-AWS-developer_~01e9cc6946ed1ce533/",
+        "title": "PHP/CSS/JAVASCRIPT/AWS developer",
+        "company": "",
+        "conditions": "0",
+        "description": "We are an early-stage startup in the revenue intelligence space. We seek an intermediate-to-experienced backend/frontend developer, who's versed in at least the following:\n- PHP\n- Perl\n- JavaScript\n- AWS\n- GitHub\n- Linux\n- release management\n\nFor further details, please contact directly.",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 74,
+    "fields": {
+        "url": "https://www.upwork.com/job/Embed-facebook-API-onto-website-WITHOUT-pop_~010ba456aa67394640/",
+        "title": "Embed facebook API onto website WITHOUT pop up",
+        "company": "",
+        "conditions": "0",
+        "description": "hello\nplease go to    jetpodleash.com\nyou can see we are doing GIVEAWAY.\nonly problem is the API is pop up...so on mobile phone it makes you open to new window entirely.\nNOT GOOD> please embed API into website.\nsuper thanks",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 75,
+    "fields": {
+        "url": "https://www.upwork.com/job/Blender-python-expert-needed_~01cc25e3334567d02a/",
+        "title": "Blender/python expert needed",
+        "company": "",
+        "conditions": "0",
+        "description": "We are looking for Blender/Python expert to help create efficient workflow for creating large library of Gltf models for use in webgl product configurator.\n1)import 3D autocad model into blender\n2)bake texture and lights \n3)other modifications to model\n4)export as gltf.\n5) create photo realistic rendering workflow\nI'm looking for someone who willing to show me how to do this in the most efficient…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 76,
+    "fields": {
+        "url": "https://www.upwork.com/job/Artificial-Intelligence-and-Machine-Learning-expert-needed-for-new-startup_~017847a1bb00e13aa0/",
+        "title": "Artificial Intelligence (AI) and Machine Learning expert needed for new startup",
+        "company": "",
+        "conditions": "0",
+        "description": "Writing great content is hard. That’s why we’ve built CopyNow, the ultimate AI-powered, always-on content partner. Founded with one objective, we are on a mission to reinvent how marketers and creatives collaborate by generating slick, content-rich marketing copy in seconds using Artificial Intelligence (AI) and Machine Learning (ML). Harnessing the latest and most advanced autoregressive Natural…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 77,
+    "fields": {
+        "url": "https://www.upwork.com/job/Windows-Application-Program_~01bf5fc5a290947201/",
+        "title": "Windows Application Program",
+        "company": "",
+        "conditions": "0",
+        "description": "To program a desktop program. To cross-reference multiple websites at once and allow the program to export an excel spreadsheet of collected data to then import into google sheets.\nI would need the bot/program to use the highlighted area from the pics attached with the example spreadsheet attached. The websites mentioned below cross-reference them with many individuals who have lived in specific p…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 78,
+    "fields": {
+        "url": "https://www.upwork.com/job/Developer-needed-for-creating-automation-software_~01eee09258bca4a35d/",
+        "title": "Developer needed for creating a automation software",
+        "company": "",
+        "conditions": "0",
+        "description": "**Job Description**\nWe are looking for a long-term full-stack developer that is able to make a software that automates the carting of a limited edition item and checking out. You will be tasked with creating software that is able to find, cart and checkout items while dealing with anti-bots. This software is currently a start-up.\n\n**Requirements -**\n- Fluent in JS or Python\n- Able to bypass Datado…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 79,
+    "fields": {
+        "url": "https://www.upwork.com/job/Assistance-integrating-third-party-libraries-modules-IronPython-pyRevit-and-Google-Auth-Admin_~010ea1f113f11cd83d/",
+        "title": "Assistance integrating third-party libraries / modules IronPython, pyRevit and Google Auth/Admin.",
+        "company": "",
+        "conditions": "0",
+        "description": "I'm new to IronPython coming from an Angular / Typescript background. I'm setting up my development environment in Visual Studio Code to program Python for Revit (pyRevit). PyRevit works with IronPython. I need assistance setting up my Visual Studio Code environment to program with Iron Python / pyRevit and a Google Auth/Admin Python API or alternately a Rest API so that I can communicate with my…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 80,
+    "fields": {
+        "url": "https://www.upwork.com/job/Google-Cloud-Network-Architect_~011eba7239f2b97168/",
+        "title": "Google Cloud Network Architect",
+        "company": "",
+        "conditions": "0",
+        "description": "Enterprise Engineering Solution is seeking a Google Cloud Network Architect.\n\nThe ideal candidate should have a background in Hybrid Cloud Deployments between Google Cloud Platform and On-premise Private Cloud Systems.\n\nExpertise in migrating infrastructure Services such as DNS, DHCP, NTP, and Firewall segmentation rules to Google Cloud is desired.\n\nPreferred Skills\no\tGoogle Cloud Platform\no\tGoogl…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 81,
+    "fields": {
+        "url": "https://www.upwork.com/job/VBA-Skills-for-simple-programming-towards-trading-systems-API_~0120a398960bce6be3/",
+        "title": "VBA Skills for simple programming towards a trading systems API.",
+        "company": "",
+        "conditions": "0",
+        "description": "Required Skills: VBA or Python and Interactive Brokers API\n\nDesired Skills: Option, Stocks, Forex, Futures and Financial Markets understanding.\n\nThe project is about automating a dynamic hedging of delta at predetermined points for the options strategies that I have created. The main aspect of the application will be around setting up the orders and as they get executed creating a corresponding se…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 82,
+    "fields": {
+        "url": "https://www.upwork.com/job/Development-support-for-payment-integration-backend-and-native-apps_~01498e0bebc4a3f84a/",
+        "title": "Development support for payment integration in backend and native apps",
+        "company": "",
+        "conditions": "0",
+        "description": "We are looking for a Backend Developer with some Frontend Experience \n\nMust-Have: Python (Django) expert experienced with In-App payment integration of Apple and Google Pay \n\nNice to have: Experience with one of iOS (Swift) / Android (Kotlin) \n\nAvailable ASAP, minimum 4 weeks of 50% capacity; option for longer term collaboration; ideally based in Germany",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 83,
+    "fields": {
+        "url": "https://www.upwork.com/job/Django-React-web-developer-needed-for-Infinity-Dev_~01c2f5ab0b96b4b18e/",
+        "title": "Django & React web developer needed for Infinity AI Dev",
+        "company": "",
+        "conditions": "0",
+        "description": "About us:\nInfinity AI is a SAAS company developing AI / ML solutions for predictive analytic problems. Our current project, which we have developed is a state-of-the-art prediction Algorithm for NBA matchups, which has been shown to be more accurate than Vegas. \n\nHaving developed this model, we are looking to build our website out and implement a shop feature to buy credits for certain matchups.…",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 84,
+    "fields": {
+        "url": "https://www.upwork.com/job/Python-developer_~01fc03318b212b510a/",
+        "title": "Python developer",
+        "company": "",
+        "conditions": "0",
+        "description": "Python developer to convert geometry code of land parcel in PostgreSQL to image formate to put in land parcel document. Please see the resource in the attached files.",
+        "city": 3,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 85,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41696169?query=python",
+        "title": "Стажер-разработчик Python",
+        "company": " ГК «ХайТэк»",
+        "conditions": "0",
+        "description": "Хорошая математическая подготовка (линейная алгебра, методы оптимизации, математическая статистика). Базовые навыки программирования на Python. Будет плюсом: Навыки работы с фреймворками...",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 86,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41448300?query=python",
+        "title": "Senior Python-разработчик",
+        "company": "ООО Где Лучше",
+        "conditions": "0",
+        "description": "Проектировать и разрабатывать новые сервисы компании. Разрабатывать внутренние ресурсы и CRM. Продумывать архитектуру проекта, покрывать тестами, писать документацию.Отличное знание Python и Django. Понимание принципов ООП, SOLID, паттерны проектировани. Желателен опыт разработки микросервисной архитектуры.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 87,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41697420?query=python",
+        "title": "Разработчик Python",
+        "company": "ООО Ред Софт",
+        "conditions": "0",
+        "description": "Разработка прикладного ПО для Linux систем. Разработка бекэнда веб приложений.Опыт разработки на Python 3 и веб порталов и приложений с использованием Django от года и выше. Желателен опыт работы...",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 88,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41701739?query=python",
+        "title": "Data scientist/Python",
+        "company": " МИА Россия сегодня",
+        "conditions": "0",
+        "description": "Разработка алгоритмов, которые эффективно работают в реальном времени. Разработка моделей машинного обучения на больших данных (крупнейший новостной сайт страны, около...Высшее образование. Аналогичный предыдущий опыт работы. Знания алгоритмов в сфере машинного обучения – Random Forest’s, SVM, clustering и тд. ",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 89,
+    "fields": {
+        "url": "https://hh.ru/vacancy/40097763?query=python",
+        "title": "Разработчик Python (+ Удаленная работа)",
+        "company": "ООО «Баланс-Платформа»",
+        "conditions": "0",
+        "description": "Реализация банковских продуктов на языке Python (у нас версия 3+). Участие в построении технической архитектуры крупного проекта, выработка решений...Опыт программирования на Python 2-х лет и знание его экосистемы. Опыт проектирования и реализации (хотя бы в составе команды...",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 90,
+    "fields": {
+        "url": "https://hh.ru/vacancy/40928132?query=python",
+        "title": "Разработчик Python (Back-End)",
+        "company": " Ostec",
+        "conditions": "0",
+        "description": "Группа компаний Остек – крупнейшее в России и странах СНГ инжиниринговое предприятие, осуществляющее поставки оборудования и оказывающее комплексные инженерно-консультационные услуги...Высшее образование (профильное). Опыт работы на аналогичной позиции. Знание языка программирования Python. Опыт в промышленной автоматизации будет большим преимуществом. ",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 91,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41713868?query=python",
+        "title": "Junior Python разработчик",
+        "company": " Request Design",
+        "conditions": "0",
+        "description": "Написание кода. Участие в code review. Ведение документации. Взаимодействие с командой тестирования.Базовые знания Python. Желание углублённо заниматься Python / Django.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 92,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41699490?query=python",
+        "title": "Python developer",
+        "company": " Top Remote Talent",
+        "conditions": "0",
+        "description": "В проект по разработке коммерческой платформы для нескольких международных автопроизводителей ищем Джанго разработчика.3+ years of commercial development experience. Advanced knowledge of Django framework. Strong knowledge of git. At least Upper-Intermediate...",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 93,
+    "fields": {
+        "url": "https://hh.ru/vacancy/37430732?query=python",
+        "title": "Pyth‎on Developer",
+        "company": " Циан",
+        "conditions": "0",
+        "description": "Разработка и поддержка проектов в микросервисной архитектуре. Проектирование архитектуры разрабатываемых компонентов. Участие в формировании способов достижения бизнес-целей команды. Имеет опыт коммерческой веб-разработки. Отлично знает Python и SQL. Умеет писать поддерживаемый и тестируемый код. Владеет ООП как в...",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 94,
+    "fields": {
+        "url": "https://www.upwork.com/job/App-developer-with-python-backend_~010bc3eedbfa4dce45/",
+        "title": "App developer with python backend",
+        "company": "",
+        "conditions": "0",
+        "description": "would like an App developed with a python backend developed for the business",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 95,
+    "fields": {
+        "url": "https://www.upwork.com/job/Hack-new-meeting-button-google-meet-linux-from-bash-script_~01441d2ed3b006b4b8/",
+        "title": "Hack \"new meeting\" button in \"google meet\" in linux from bash script",
+        "company": "",
+        "conditions": "0",
+        "description": "Hi,   (respond with \"likemeethack\" if you like, or respond will deleted)\n\nI am developing telepresence robot, based on rasp4.\n1-2-1 view is set by google meet view.\n\nneed a trick to click button \"New meeting\"   (meet.google.com/new)  .. and ultimately automate a bit more. It will hack or trick.\n\nsystem : rasp4 & raspbian on raspberry4, standard last OS for rasp. (debian)\n\nprogram (bash script) :\n-…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 96,
+    "fields": {
+        "url": "https://www.upwork.com/job/Power-Data-Analyst_~010c3be975da1396aa/",
+        "title": "Power BI Data Analyst",
+        "company": "",
+        "conditions": "0",
+        "description": "We are looking for an experienced Power BI Data Analyst who also has familiarity with other internal Microsoft tools. The right person has worked on developing dashboards, generating ROI analysis, data and reports.\n\nYou will work closely with several teams (management, product, development, sales, etc) to understand the business, business needs, data related to the business goals, the internal too…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 97,
+    "fields": {
+        "url": "https://www.upwork.com/job/Live-Data-Extraction_~01a94c952478b2f716/",
+        "title": "Live Data Extraction",
+        "company": "",
+        "conditions": "0",
+        "description": "Hello,\nWe are looking for a highly qualified Scraper for Live streamed data extraction that would need to be scripted in Json and uploaded into API endpoint server.\n\nThis is a long term project where there are several sockets to build the scrapers around and then maintain and update.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 98,
+    "fields": {
+        "url": "https://www.upwork.com/job/Full-stack-developer-work-with-internal-team-development-requirements_~0116a5026759b13abd/",
+        "title": "Full-stack developer to work with internal team on development requirements",
+        "company": "",
+        "conditions": "0",
+        "description": "We are looking for full stack developer who can help our internal team with Django and React stack web application.\n\nRequired Skills\n- Django, Django REST\n- ReactJS\n- CubeJS https://cube.dev/\n- GraphQL, PostgreSQL\n- ChartJS or any chart libraries\n- Pytest and Jest\n- Media Queries, Bootstrap, cross-browser compatibility\n\nResponsibilities\n- Must understand Django and React in order to build new requ…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 99,
+    "fields": {
+        "url": "https://www.upwork.com/job/port-forwarding-not-working-Parrot-Linux_~01a67f9eac4f67b03e/",
+        "title": "port forwarding not working on Parrot os Linux",
+        "company": "",
+        "conditions": "0",
+        "description": "Hello, \nI am trying to open ports on my Parrot OS. Ports 1234 or 4545 or 4444 are not opening on www.yougetsignal.com \n\nIs it my system or my ISP? \n\nI am using a travel router to practice on. A GL-AR300m \n\nNeed to practice for my network security. Thank you",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 100,
+    "fields": {
+        "url": "https://www.upwork.com/job/API-Expert-Needed-with-knowledge-Python-SQL-and-Google-Cloud-Platform_~01f60ab06cd4bf3246/",
+        "title": "API Expert Needed with knowledge of Python, SQL and Google Cloud Platform",
+        "company": "",
+        "conditions": "0",
+        "description": "I need a API expert to work on a big project of my client in which he'll have to work on several API's and gather data in Google Big Query. He need to make sure that whatever data is required is being captured properly using API's and he should have to make that data available in Google Big Query. \n\nWe are using Google cloud functions to run Python code to capture that data and formed a data lake…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 101,
+    "fields": {
+        "url": "https://www.upwork.com/job/Developer-needed-for-application-using-Django-and-Graphene_~01f9c07ca2086f315f/",
+        "title": "Developer needed for application using Django and Graphene",
+        "company": "",
+        "conditions": "0",
+        "description": "We are looking for freelancer having skills of Django and GraphQl using Graphene.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 102,
+    "fields": {
+        "url": "https://www.upwork.com/job/Ansible-consultant-required-for-ongoing-project_~010fa5ad4185f4dba2/",
+        "title": "Ansible consultant required for an ongoing project",
+        "company": "",
+        "conditions": "0",
+        "description": "Hi,\nWe are looking for someone expert on Ansible architecture. He/she should have in depth knowledge on Ansible process, troubleshooting. Skill to write Ansible module is always a plus.\n\nThe candidate must need to sign an NDA before get engaged.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 103,
+    "fields": {
+        "url": "https://www.upwork.com/job/Data-Product-Manager-for-Edtech-Platform_~011ec9da4b284caeb3/",
+        "title": "Data Product Manager for Edtech Platform",
+        "company": "",
+        "conditions": "0",
+        "description": "Greetings: \n\nWe are an education start-up using VR technology to improve learning and life outcomes in K-12 education. \n\nMost critically, the person in this role will help to build the model of how data and insights can drive measurable improvements in consumer activation, engagement, and retention.  He/she will also partner with key leaders to translate these insights into requirements for new an…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 104,
+    "fields": {
+        "url": "https://www.upwork.com/job/Developer-needed-for-creating-responsive-website-for-delivery-digital-container_~015cdc0ce34be3900b/",
+        "title": "Developer needed for creating a responsive website for delivery digital container",
+        "company": "",
+        "conditions": "0",
+        "description": "Providing a comprehensive suite of advanced services and technologies to manage, protect and sell every digital content, The Private Hub aims to bring one of the biggest revolutions in the digital content distribution and monetisation industry.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 105,
+    "fields": {
+        "url": "https://www.upwork.com/job/Edit-telegram-bot-and-MongoDB_~01f6bff591d7e50d77/",
+        "title": "Edit telegram bot and MongoDB",
+        "company": "",
+        "conditions": "0",
+        "description": "I have an existing telegram bot script. The entire bot flow is stored in flow.io. The data are stored in MongoDB.\n\nI need someone to read the script and make changes to the script. All the changes will be provided using flow.io. This will help you in writing new script.\n\nNeed to include payment integration with Stripe.\n\nIt will be based on hourly contract. Need somone who has the time to start the…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 106,
+    "fields": {
+        "url": "https://www.upwork.com/job/Need-python-dev-format-excel-spreadsheet_~01056f73e4b0ae1a4a/",
+        "title": "Need a python dev to format an excel spreadsheet",
+        "company": "",
+        "conditions": "0",
+        "description": "I have  python script I created that exports data from a dataframe to an excel spreadsheet. I need some of the column headers to be rotated within the cell but I cannot figure it out. I woudl like for someone to help me with the code and do a Microsoft Teams meeting with me to walk me through the solution.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 107,
+    "fields": {
+        "url": "https://www.upwork.com/job/YouTube-SEO-Tool-Development_~01d45e201b729d6117/",
+        "title": "YouTube SEO Tool Development",
+        "company": "",
+        "conditions": "0",
+        "description": "Hi,\nI want to build my own YouTube SEO Tool, and for that, I would like to discuss with you about this project.\n\nHere are the features I want to include in my tool:\nTag Generator/Keyword Generator/ Title Generator/ Analytics/ Revenue/ Ads Performance etc...\nBasically I want to add as many features as possible to my Tool.\n\nhttps://developers.google.com/youtube/reporting?authuser=1\n\nhttps://develope…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 108,
+    "fields": {
+        "url": "https://www.upwork.com/job/Custom-social-networking-site-django-framework_~012635d57b1a4a16b4/",
+        "title": "Custom social networking  site in django framework",
+        "company": "",
+        "conditions": "0",
+        "description": "Adding features in custom social networking site in django framework\n•\tForgot password .\n•\tFunctionalities on explore button : \nUser should enter name search name of registered user and directed to searched user follow page\nDisplay stories in explore page\n•\tIn direct message app : add media sharing functinality\n•\tAdding voice and video call to site.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 109,
+    "fields": {
+        "url": "https://www.upwork.com/job/Create-algorithm-buy-and-sell-cryptocurrencies-trading-experience-required_~016ce389788f1fdd55/",
+        "title": "Create an algorithm to buy and sell cryptocurrencies (no trading experience required)",
+        "company": "",
+        "conditions": "0",
+        "description": "(Please see the attached PDF for project description.)\n\nI need to create an algorithm to take advantage of price volatility in a realtime trading environment. You don't actually need to know much about trading, just algorithm development/statistics.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 110,
+    "fields": {
+        "url": "https://www.upwork.com/job/Big-Data-Engineer_~011b5a0017f2ef7818/",
+        "title": "Big Data Engineer",
+        "company": "",
+        "conditions": "0",
+        "description": "We are looking for a Data Engineer/ Big Data Engineer with knowledge of Google Cloud Platform (mandatory), PySpark, Python. \n\nCompletely remote- but you have to be based in Europe. \nProject for a minimum of 3 months. \nSend your CV over",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 111,
+    "fields": {
+        "url": "https://www.upwork.com/job/Scrape-iOS-Android-Marketplace-App_~01032275bd6ad0d5db/",
+        "title": "Scrape iOS / Android Marketplace App",
+        "company": "",
+        "conditions": "0",
+        "description": "Scrape IOS/Android App\n\nWe are looking for someone who has experience scraping data from an android/IOS application to create a script that will scrape sales data from the GOAT app. If this could be done in python that would be preferable.\n\nDeliverable:\na script that takes in a list of SKU's(~10,000) and exports relevant data as a JSON or CSV file. (we will provide the exact data we need to be scr…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 112,
+    "fields": {
+        "url": "https://www.upwork.com/job/Fullstack-dev-needed-for-documentation-projects_~01ca90f6a838eea8d9/",
+        "title": "Fullstack dev needed for documentation projects",
+        "company": "",
+        "conditions": "0",
+        "description": "Scality’s documentation has been migrated from an authoring tool to a “docs as code” framework, using reStructuredText with the Sphinx static site generator to produce HTML and PDF, and Git for version control. This transition has exposed technical issues in need of resolution. The Full Stack Developer will assist and advise the documentation team with these issues:\n\n1) Complete automation of rele…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 113,
+    "fields": {
+        "url": "https://www.upwork.com/job/Long-Term-Relationship-Budget-Negotiable-Python-Course-Creator-Need-60minutes-Video-Created_~01c7688e75cd6d9953/",
+        "title": "Long Term Relationship:Budget Negotiable: Python Course Creator -  Need 60minutes+ Video Created",
+        "company": "",
+        "conditions": "0",
+        "description": "I am looking for someone experienced enough to create this training course. My current courses are bestsellers on Udemy so you need to meet the Udemy guidelines for video:\n\nUltimately my courses are usually done as Powtoon animations. They are very concise in comparisi=on to most courses (many are 3 hours long)\nI usually start with a script (an ebook with chapters that become lectures)\nSo the opti…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 114,
+    "fields": {
+        "url": "https://www.upwork.com/job/Elixir-Developer-Needed_~013154efeff3fdcaa9/",
+        "title": "Elixir Developer Needed",
+        "company": "",
+        "conditions": "0",
+        "description": "looking for elixir developer to fix few bugs in my site. Currently, its just a simple site need to improve it. It can be a long term cooperation.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 115,
+    "fields": {
+        "url": "https://www.upwork.com/job/reconstruction-from-multiple-images_~01529a384a2c1d1e87/",
+        "title": "3d reconstruction from multiple images",
+        "company": "",
+        "conditions": "0",
+        "description": "- calibration using chessboard pattern \n- disparity map\n- depth map\n- 3d reconstruction of object( plant and fruit specialy)\n- geometrical information of 3d object ( volume, area..) \n  I did a code but i have problem with disparityand depth map so i cannot get the 3d obejct\nI need someone who can do it in python\nI can send me whta i did \nI join an exmple of disparity that is wrong",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 116,
+    "fields": {
+        "url": "https://www.upwork.com/job/Data-Engineer_~014b96b5e38b852f66/",
+        "title": "Data Engineer",
+        "company": "",
+        "conditions": "0",
+        "description": "We're looking for a innovative engineer who is excited to work on challenging data synchronisation problems. You will be interfacing with tons of APIs and building robust data pipelines. We're growing quickly, so the tools that you build need to be able to scale.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 117,
+    "fields": {
+        "url": "https://www.upwork.com/job/Ethereum-NODE-consultant-needed_~0101f1e922b2b7a448/",
+        "title": "Ethereum NODE consultant needed",
+        "company": "",
+        "conditions": "0",
+        "description": "Looking for skilled professional consultant with experience deploying, tuning, and troubleshooting an Ethereum node (geth).   I have the node set up and synced, but a backend node.js dApp subscribing to notifications intermittently just stops receiving the notifications.  Need review of the deployment and also of notification mechanism (web3.eth).\n\nPlease note your related experience.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 118,
+    "fields": {
+        "url": "https://www.upwork.com/job/Azure-cognitive-search-specialist_~01391e5392f56f2ecc/",
+        "title": "Azure cognitive search specialist",
+        "company": "",
+        "conditions": "0",
+        "description": "Looking for Azure Cognitive Search or ElasticSearch specialist with Machine Learning knowledge. The project is to setup a cognitive AI enabled search engine for huge text corpus of 100,000s of documents. The data needs to be indexed and searchable using the power of AI to return the most relevant list of answers ranked by their relevance.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 119,
+    "fields": {
+        "url": "https://www.upwork.com/job/Developer-needed-create-Python-GUI-for-engine-parameter-display_~01426183b82f57c665/",
+        "title": "Developer needed to create Python GUI for engine parameter display",
+        "company": "",
+        "conditions": "0",
+        "description": "Need a simple GUI developed that will display A to D converted information on a display. No user interaction. Will run on Raspberry Pi  with A to D converter with 6 inputs.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 120,
+    "fields": {
+        "url": "https://www.upwork.com/job/Automated-Software-Testing-Blog-post_~018e3ef26b6a340f29/",
+        "title": "Automated Software Testing Blog post",
+        "company": "",
+        "conditions": "0",
+        "description": "Outline of the blog post (for example):\n\n- Testing Basics (Testing Triangle, Unit, Integration etc.)\n- Testing Automation Basics (How does it work, YAML format etc.)\n- Concrete projects for setting up Travis etc.\n- GitHub Actions / Travis CI\n- Automated Frontend Testing with Saucelabs\n\nBasics of testing (Testing “triangle” etc.)\n- Testing Pyramid\n  - Unit\n  - Integration\n  - System\n  - End to End…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 121,
+    "fields": {
+        "url": "https://www.upwork.com/job/Python-Developer-Ready-Hire_~01ee49f535adbece52/",
+        "title": "Python Developer Ready to Hire",
+        "company": "",
+        "conditions": "0",
+        "description": "We are looking for a Remote Python-dev, for long term work. \nHere are the main requirements that we need. \n\n— At least 2 years of experience with Python\n— Knowledge of Django Framework and Wagtail CMS is a Must \n— Strong knowledge of DB (PostgreSQL, MySQL, MariaDB, SQLite)\n— Familiarity with OOP, design patterns, algorithms, and data structures\n— Basic knowledge of HTML, CSS, Javascript\n— GIT\n— En…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 122,
+    "fields": {
+        "url": "https://www.upwork.com/job/Recherche-Full-Stack-Developer-pour-ation-Site-Internet_~018582f7f1dde32a88/",
+        "title": "Recherche Full Stack Developer pour création de Site Internet",
+        "company": "",
+        "conditions": "0",
+        "description": "La start-up VINOCT est une entreprise spécialisée dans la promotion du travail en Freelance en Côte d’Ivoire et en Afrique de l’ouest. \n\nPour l’accompagner et participer activement à son développement, VINOCT recherche un Développeur Web Fullstack.\n\n\nRattaché au fondateur, vous serez principalement chargé de concevoir et développer un site et une application mobile pour notre société.\n\n\nCréatif et…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 123,
+    "fields": {
+        "url": "https://www.upwork.com/job/Senior-Python-Backend-Engineer_~01258ee1b0efed3be9/",
+        "title": "Senior Python Backend Engineer",
+        "company": "",
+        "conditions": "0",
+        "description": "Synergy Sports is dedicated to delivering revolutionary sports and technology solutions for the benefit of sports and entertainment of fans. To make this happen we are bringing established technologies, innovators and sports partners into a thriving ecosystem and ensure the benefits are returned to our sports partners and their fans. We are backed by Elysian Park Ventures, a US-based, private inve…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-18"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 124,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41727791?query=python",
+        "title": "Python разработчик",
+        "company": "ООО КингБерд",
+        "conditions": "0",
+        "description": "Решать сложные и интересные задачи связанные с машинным обучением. Писать backend часть для мобильных приложений и веб сайтов. Обладает уверенными знаниями Python. Работал с ML-фреймворками (PyTorch, TensorFlow). Имеет опыт работы с фрейморвками Flask, Django. Обладает базовыми знаниями...",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 125,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41720668?query=python",
+        "title": "Python/Scrapy разработчик",
+        "company": " Datacrafts",
+        "conditions": "0",
+        "description": "Разработка скреперов для сбора исходных данных из различных источников. Разработка способов взаимодействия с веб частью приложения (RPC, RabbitMQ). Умение поддерживать адекватную коммуникацию в распределенной команде, коммуникабельность, инициативность, участие в созвонах. Python asyncio. Mypy. RabbitMQ. Poetry/pipenv. Python multiprocessing. ",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 126,
+    "fields": {
+        "url": "https://www.upwork.com/job/Cross-Platform-Mobile-App-Developer_~01477c31ffe11fb2ba/",
+        "title": "Cross Platform Mobile App Developer",
+        "company": "",
+        "conditions": "0",
+        "description": "We are looking for a React Native + Firebase developer interested in building a social fitness cross platform application.\n\nWe'd like to work with a fast, motivated, and diligent individual - especially someone who wants to be recognized as the hands behind a great product. We'll be expecting timely delivery of code and elegance in its writing, and we'll be providing all the flexibility and opport…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 127,
+    "fields": {
+        "url": "https://www.upwork.com/job/Need-DevOps-expert-with-knowledge-Machine-Learning-design-setup-pipelines-for-lifecycle_~01d18324c3d5467635/",
+        "title": "Need a DevOps expert with knowledge in Machine Learning to design&setup pipelines for ML lifecycle",
+        "company": "",
+        "conditions": "0",
+        "description": "Deliverables:\n- Setup end to end pipelines for moving a machine learning model from development to production environment, which includes the following\n\n1. Dataset versioning\n2. Model versioning\n3. Spawning GPU VMs for Training\n4. Versioning the codebase\n5. Robust workload manager (like Slurm or relevant tool).\n6. Model testing \n7. Monitoring all the above aspects.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 128,
+    "fields": {
+        "url": "https://www.upwork.com/job/DevOps_~01882fd4e44d8f951a/",
+        "title": "DevOps",
+        "company": "",
+        "conditions": "0",
+        "description": "Background\n\nWherever a buyer is on their journey, they leave digital footprints. At Cyance, our platform Nexus monitors these digital signals across the web and matches them against a universe of over 150 million global organisations. We use machine learning to continuously analyse how these billions of signals from hundreds of locations interact, we start to understand buying behaviour and identi…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 129,
+    "fields": {
+        "url": "https://www.upwork.com/job/Python-Django-Backend-Developer_~01955b16570a6ad9e2/",
+        "title": "Python Django Backend Developer",
+        "company": "",
+        "conditions": "0",
+        "description": "Looking for a backend Developer, work will involve working with existing code by improving it and working on improving existing modules, like chat, checkout, google maps implementation with delivery. Must be experienced with Ecommerce and Postgresql . Must have experience in code and database achitecture. Price will be decided as per module implementation, however, price must be fairly good and co…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 130,
+    "fields": {
+        "url": "https://www.upwork.com/job/PYTHON-Need-Simple-Script-Generate-Thousands-Short-URLs-With-Bit-API_~01cb835afeb070b836/",
+        "title": "[PYTHON] Need Simple Script To Generate Thousands Of Short URLs With Bit.ly API",
+        "company": "",
+        "conditions": "0",
+        "description": "I need a simple Python standalone script (exe) to enter:\n\n- My website URL\n- Bit.ly API/Login details\n- Set how many short URLs to create, for example: 1000\n\nScript will call to Bit.ly API and generate 1000 unique short bit.ly links and export them",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 131,
+    "fields": {
+        "url": "https://www.upwork.com/job/Advance-Interaction-Engineer_~01f82f9242212f13a4/",
+        "title": "Advance Interaction Engineer",
+        "company": "",
+        "conditions": "0",
+        "description": "Need a fulltime freelancer to build Interactive UI in ReactJS. One must fulfill the following for application:\n\n* Strong TypeScript \n* Strong in Core JavaScript \n* Strong in HTML and CSS \n* Must be based out of India and working in IST",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 132,
+    "fields": {
+        "url": "https://www.upwork.com/job/Flask-SqlAlchemy-Pytest-practices-and-code-review-audit-short-mission-under-day-work_~012e9155616e7da90f/",
+        "title": "Flask-SqlAlchemy-Pytest practices and code review / audit (short mission, under a day of work)",
+        "company": "",
+        "conditions": "0",
+        "description": "We have a python datascience project POC that has been refactored into a Flask app mostly exposing an json api endpoint. We are looking to increase overall quality by a code review or audit.\n\nBased on the audit quality, we will be recurrently calling the auditor to develop new features.\n\nAudit is expected to take 2-6 hours of work depending on seniority of auditor.\n\n# Scope of audit/code-review\n\nD…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 133,
+    "fields": {
+        "url": "https://www.upwork.com/job/Virtual-Labs-for-our-Learning-Management-System_~012b02965caf703de8/",
+        "title": "Virtual Labs for our Learning Management System",
+        "company": "",
+        "conditions": "0",
+        "description": "We want to create virtual labs for our learning management system where each student will have access to labs which can be IDE based or VM depending on the courses.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 134,
+    "fields": {
+        "url": "https://www.upwork.com/job/cryptocurrency-with-hot-cold-wallet-and-listing-detail-pri-mine-Open_~01a7eb583d03e8d19e/",
+        "title": "cryptocurrency with hot cold wallet and listing detail pri mine\nOpen",
+        "company": "",
+        "conditions": "0",
+        "description": "cryptocurrency with hot cold wallet and listing detail pri mine\ndeploy coin",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 135,
+    "fields": {
+        "url": "https://www.upwork.com/job/Learning-Experience-Platform_~019d36b33c47b0324c/",
+        "title": "Learning Experience Platform",
+        "company": "",
+        "conditions": "0",
+        "description": "As an volunteer with NGO firm and being with online learning being new future across the interest of areas. \n\nAs a learner/author, I wish to have a online platform to make my notes and ability to share the same with people of his interest.\n\nPhase 1:\nSmart notes consists of the following: (Every smart note will fall under a sub-topic under the topic defined by the Admin)\n- Custom Rich Text\n- Extern…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 136,
+    "fields": {
+        "url": "https://www.upwork.com/job/Metatrader-robot-using-Metaapi-cloud-and-trade-based-signals_~01cc8ac36e28b39260/",
+        "title": "Metatrader robot using Metaapi.cloud and trade based on signals",
+        "company": "",
+        "conditions": "0",
+        "description": "I am looking for a long term relationship to develop a different semi-automatic trading solution using metaapi.cloud.\nThe first project is simple\n - Develop a solution that can handle trades using metaapi.cloud and Python or Node.js solution\n - Use a .csv input file to open trades (entryPrice, symbol, stopLoss, takeProfit etc...)\n - Calculate trade size based on fixed size (like $100) for the give…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 137,
+    "fields": {
+        "url": "https://www.upwork.com/job/Python-developer-with-full-stack-experience-help-build-IoT-portals-and-API-stacks_~0159ad2e80e99d3736/",
+        "title": "Python developer, with full stack experience, to help build IoT portals and API stacks",
+        "company": "",
+        "conditions": "0",
+        "description": "An exciting opportunity exists to join our team as a Full Stack developer within a leading UK manufacturing business in the UK. The role will be to assist with architecting, designing, developing and maintaining secure, scalable, and user-friendly web applications using languages and tools such as Python, Flask, HTML5, JS and SQL. You will also be developing API’s for both or web application porta…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 138,
+    "fields": {
+        "url": "https://www.upwork.com/job/Create-backend-solution-for-Livestreaming-videos-through-AWS_~01ef1ac726c7032a60/",
+        "title": "Create a backend solution for Livestreaming videos through DO & AWS S3",
+        "company": "",
+        "conditions": "0",
+        "description": "I have an application for institutes to manage their workflow online. Recently I added a feauture for teachers to live stream their classes online so that users can watch it from home. I am currently using YouTube to do it which is really unprofessional and inefficient. So I wanted to connect my app to a Media Server to handle the live video part of our application. The idea is really simple and s…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 139,
+    "fields": {
+        "url": "https://www.upwork.com/job/Script-deploy-Django-AWS-Lambda_~010dd7edebd4b738c0/",
+        "title": "Script to deploy Django to AWS Lambda",
+        "company": "",
+        "conditions": "0",
+        "description": "Deliverable is a python script that gets a set of inputs including a repo with reading access.\nThe script will read from Repo and deploy the Django app into a lambda function and static files into the s3 bucket.\nThe lambda function and s3 bucket may already exist and updatable or they should be created from scratch and returned as a result of the operation, which will be also the parameter of the…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 140,
+    "fields": {
+        "url": "https://www.upwork.com/job/Code-Review-Debugging-End-end-testing_~018e100a13b6832552/",
+        "title": "QA / Code Review / Debugging / End to end testing",
+        "company": "",
+        "conditions": "0",
+        "description": "Professional with fintech / legal tech / tax business process experience \n\nDeliverable is: \n1- Understand the business, the solution we have and understand tax frameworks.\n2- Review Codebase / debug/ troubleshoot and resolve.\n3- Enhance code where necessary\n4- Setup automated testing framework for continuous integration.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 141,
+    "fields": {
+        "url": "https://www.upwork.com/job/Artificial-Intelligence-and-Machine-Learning-AIML-For-Customer-Behavior-and-Traction_~01f80179a4f3a3dc3f/",
+        "title": "Artificial Intelligence and Machine Learning (AIML) For Customer Behavior and  Traction",
+        "company": "",
+        "conditions": "0",
+        "description": "I have a product where customer register and do some actions.\n\nI want to build a customer buying pattern using AIML. For example customer after registration starts using our software trial. They use the trial for 15 days. I want to understand what are they doing and what tip should I give them in next login so that they get more and more involved with the software and progress towards buying.\n\nFor…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 142,
+    "fields": {
+        "url": "https://www.upwork.com/job/AWS-Developer-Python-Textract_~01311b85cbdf5f943d/",
+        "title": "AWS Developer | Python | Textract",
+        "company": "",
+        "conditions": "0",
+        "description": "Hi, I am looking for a developer who can build a solution using AWS Textract: The solution scope is as follows:  Read a pdf file (Invoice) and extract predefined elements from the file and store the structured data into a database (a csv file) along with the confidence level.  The files which are successfully processed with a specific confidence should be moved a processed bucket and which somethi…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 143,
+    "fields": {
+        "url": "https://www.upwork.com/job/Django-PostgreSQL-expert-required-for-bug-fixing_~0198c474b7ca6799ce/",
+        "title": "Django+PostgreSQL expert required for bug fixing",
+        "company": "",
+        "conditions": "0",
+        "description": "I am using Python Django and PostgreSQL to build our report app.\n\nI am using below mention query to find some details. the query mention below is running fine in the PostgreSQL command line and giving results in 2 sec for 2 million cards but when I am trying the same in the Django application it is taking too much time and the web page is expired while running this query.\n\ncan anyone help how to m…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 144,
+    "fields": {
+        "url": "https://www.upwork.com/job/GCP-K8S-DevOps-engineer_~0125779b9d89fb8a3d/",
+        "title": "GCP, K8S, DevOps engineer",
+        "company": "",
+        "conditions": "0",
+        "description": "Seeking an expert in GCP, k8s, docker, minikube, helm, staffold, terraform, python, vue.js, etc.\nYou will help me run the GCP project on my local windows 10 pc by working remotely. Good quality and work will lead to a long-term relationship.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 145,
+    "fields": {
+        "url": "https://www.upwork.com/job/What-Facebook-and-Amazon-had-baby_~015893e6a970d9ca4e/",
+        "title": "What if Facebook and Amazon had a baby",
+        "company": "",
+        "conditions": "0",
+        "description": "We at https://www.smartshop.social/ had spent $10,000+ USD so far and offer competitive pay for media pipe experts, computer vision experts, machine learning, and data scientists.\n\nPrecisely we are seeking to help improve our current live and image try-on https://www.smartshop.social/ to match the standards of https://www.lorealparisusa.com/virtual-try-on/makeup.aspx",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 146,
+    "fields": {
+        "url": "https://www.upwork.com/job/Instagram-Automation-Tool_~019a66bf575f9a7b11/",
+        "title": "Instagram Automation Tool",
+        "company": "",
+        "conditions": "0",
+        "description": "I want a Instagram automation tool where I can schedule post organize my portfolio of instagram pictures and just do everything on my computer with instagram. It doesn’t matter but I prefer a web base automation tool but if it software then that’s ok as well.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 147,
+    "fields": {
+        "url": "https://www.upwork.com/job/Mobile-App-Development_~01c67251413db93a8e/",
+        "title": "Mobile App Development",
+        "company": "",
+        "conditions": "0",
+        "description": "Looking for an experienced Full Stack Engineer to write an iOS app and web app for an idea. This is going to be first version of the product and will need many conversations to streamline the requirements. Most likely I am looking at iOS app in Swift. For backend, I am expecting it to be Python hosted over AWS. The web app can be a simple CRUD app doing the functions of the iOS app.\n\nIf you have e…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 148,
+    "fields": {
+        "url": "https://www.upwork.com/job/Tiktok-automation-bot_~01d038bd7b5c234a3c/",
+        "title": "Tiktok automation bot",
+        "company": "",
+        "conditions": "0",
+        "description": "I'm looking for a person who's able to create a fully operational Tiktok automation bot and user interface. I would like the bot to essentially be able to do everything that \"followliker\" automation bot is able to do for the Instagram platform. \n\nAutomation bot and user interface should be able to:\n\n- utilize proxies when simulating tiktok accounts \n- Scrape users of specific accounts following/fo…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 149,
+    "fields": {
+        "url": "https://www.upwork.com/job/PERL-MSSQL-Expert-Needed-Convert-Script-use-GMAIL-SMTP_~014d7dcfd03491928a/",
+        "title": "PERL & MSSQL Expert Needed - Convert Script to use GMAIL SMTP",
+        "company": "",
+        "conditions": "0",
+        "description": "For our client, we are looking to implement GMAIL SMTP support in a PERL script file.\nThe legacy script uses Net::SMTP (we could not use it on Azure VM and we do not want to use it anyway) whereas we are looking to send out emails using GMAIL. We have tested a script with the following modules:\n\nuse Email::Sender::Simple qw(sendmail try_to_sendmail);\nuse Email::Sender::Transport::SMTPS;\nuse Email:…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 150,
+    "fields": {
+        "url": "https://www.upwork.com/job/State-the-art-Face-Recognition-system_~01dddf9f03ce6c5ba2/",
+        "title": "State of the art Face Recognition system",
+        "company": "",
+        "conditions": "0",
+        "description": "Developing state of the art face recognition algorithms for mobile authentication by Deep Learning based approach significantly improved their recognition system that was based on traditional computer vision techniques.\n\nImplemented spoof detection using Deep Learning which accurately detects spoof attacks based on a person’s picture",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 151,
+    "fields": {
+        "url": "https://www.upwork.com/job/RFID-expert-needed-for-RFID-project-relating-shopping-data-analysis_~0194c4d163ffa90c99/",
+        "title": "RFID expert needed for RFID project relating shopping data analysis",
+        "company": "",
+        "conditions": "0",
+        "description": "CASE:\nWe have an RFID project relating shopping data analysis.\nAfter lifting a product off the shelf, we want the system to detect which product (exact SKU) is taken.\n\nCHALLENGE:\nAfter lifting a product off the shelf, due to environment interference, the reader receives multiple signals. As we have multiple signals in the ether, we cannot detect which signal comes from lifted product.\n\nEXPECTATION…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 152,
+    "fields": {
+        "url": "https://www.upwork.com/job/Instagram-followers-chrome-extention_~019fa920f9681b1d9a/",
+        "title": "Instagram followers chrome extention",
+        "company": "",
+        "conditions": "0",
+        "description": "Hey, I want full stack dev to create a chrome extension which can send unlimited followers based on countries, likes and comments to any account and after completing source file too . Beautiful neat and clean UI & UX\n\nThe price i have written is only for place holder , Tell Me your Price.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 153,
+    "fields": {
+        "url": "https://www.upwork.com/job/Real-Time-CCTV-Video-Analysis_~01e1fe3bf22385b0c3/",
+        "title": "Real-Time CCTV Video Analysis",
+        "company": "",
+        "conditions": "0",
+        "description": "Built a deep learning based video analysis/monitoring/security system that dramatically decreased false alarm rate\nBuilt system using GPU instances on Amazon Web Services to handle thousands of camera feeds simultaneously.",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 154,
+    "fields": {
+        "url": "https://www.upwork.com/job/Full-stack-developer-needed-for-working-dashboard-using-CubeJS-and-Django_~01b320606a1733d332/",
+        "title": "Full-stack developer needed for working on dashboard using CubeJS and Django",
+        "company": "",
+        "conditions": "0",
+        "description": "We are looking a full-stack developer who knows both Python/Django and JS/CubeJS in order to help us to build dashboards with focus on customer personalization dashboard.\n\nResponsibilities\n- Work on our existing Django code base and build dashboard on top of it\n- Implement CubeJS for our dashboards using given data points\n- Write test cases for both Django using Pytest and CubeJS using React/Jest…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 155,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41741603?query=python",
+        "title": "Junior Web-разработчик (Python)",
+        "company": " Актив",
+        "conditions": "",
+        "description": "Поддержка, доработка и разработка. Внутренних сайтов и сервисов компании. Внешних Web-проектов компании. Поддержка и разработка демо-площадок для презентаций...Опыт работы с Python (Django/Flask). Понимание принципов работы с СУБД и фрэймворков для работы с ними. Понимание и/или...",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 156,
+    "fields": {
+        "url": "https://www.upwork.com/job/Node-NPM-Module-Add-Site_~01271e9c5c5e58551f/",
+        "title": "Node. JS (NPM Module) Add To Site",
+        "company": "No company (freelance)",
+        "conditions": "\n                $10\n                Fixed Price $$ Intermediate level ",
+        "description": "I want to add the NPM module to my site \"y2downloader.net\" integrated with a button.\n\nDetails about my VPS server. (CentOS, with cPanel / WHM, Built-in terminal installed)",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 157,
+    "fields": {
+        "url": "https://www.upwork.com/job/Backtrader-backtest-implement-partial-take-profits_~010fa33571dd33941e/",
+        "title": "Backtrader backtest: implement partial take profits",
+        "company": "No company (freelance)",
+        "conditions": "\n                $5\n                Fixed Price $ Entry level ",
+        "description": "Hello,\n\nI have a simple trading strategy that I am backtesting using Backtrader.\n\nI would like to add the option to take profit at 3 different targets, based on a predefined risk ratio.\n\nThis gig shouldn't take long for someone used to code and backtest using Backtrader. \n\nIf you are interested and have the relevant experience, please PM me.\n\nMany thanks!",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 158,
+    "fields": {
+        "url": "https://www.upwork.com/job/Senior-Backend-Devops-Engineer_~019e671161dffad115/",
+        "title": "Senior Backend & Devops Engineer",
+        "company": "No company (freelance)",
+        "conditions": "30+ hrs/week Hours needed More than 6 months Duration $$$ Expert level ",
+        "description": "We're looking for an experienced backend engineer with the following skills: \nPython, \nNodejs, \nAWS, \nDockers, \nAPI Gateway, \nCloudformation, \nECS,\nECR, \nLambdas, \nServerless, \nKinesis Streams.\n\nAdvantages:\n+++ if you're familiar with blockchain technologies, web3 libs, state channels, erc20, ethereum, smart contracts, event streaming, decentralised storage IPFS, wallet development etc..\n\n+++ if y…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 159,
+    "fields": {
+        "url": "https://www.upwork.com/job/Middle-Senior-Python-developer-long-term_~01551190b13c97a14f/",
+        "title": "Middle to Senior Python developer, long term",
+        "company": "No company (freelance)",
+        "conditions": "30+ hrs/week Hours needed 3 to 6 months Duration $$$ Expert level ",
+        "description": "Hi,\nWe are looking for an experienced in scraping Python developer to join the project team of the product we've started over a year ago. \n\nRequired experience: \nDevelopment experience (5+ years)\nPython (4+ years)\nScrapy (2+ years )\nMySQL/PostgreSQL (4 years or more)\nORM (SQLAlchemy or Peewee or DjangoORM)\ngit\nBash\n--\nRussian: native \nEnglish: Intermediate\n--\nA good plus would be experience with R…",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 160,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41744898?query=python",
+        "title": "C++ \\ Python Developer",
+        "company": " Лаборатория Касперского",
+        "conditions": "",
+        "description": "Разработка и поддержка высоконагруженной облачной платформы по детектированию мошеннической деятельности в финансовой области. Участие в принятии архитектурных решений сервиса. Опыт разработки на языке Python от 2-х лет (используем python 3.6+). Опыт разработки высоконагруженных сервисов и многопоточных...",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.vacancy",
+    "pk": 161,
+    "fields": {
+        "url": "https://hh.ru/vacancy/41483501?query=python",
+        "title": "Python Developer (Computer Vision)",
+        "company": " NZT Group",
+        "conditions": "200 000-350 000 руб.",
+        "description": "Работа с высоконагруженными системами. -Обработка изображений в режиме реального времени. -Обучение моделей для задач Object Detection, Text Recognition. -Опыт разработки на python не менее 3х лет. -Опыт работы с computer vision не менее 2х лет. -",
+        "city": 1,
+        "programming_language": 1,
+        "timestamp": "2021-01-19"
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 1,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 2,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 3,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 4,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 5,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 6,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 7,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 8,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 9,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 10,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 11,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 12,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 13,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 14,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 15,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 16,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 17,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 18,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 19,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 20,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 21,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 22,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 23,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 24,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 25,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 26,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 27,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 28,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 29,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 30,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 31,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 32,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 33,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 34,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 35,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 36,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 37,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 38,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 39,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 40,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 41,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 42,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 43,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 44,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 45,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 46,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 47,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 48,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 49,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 50,
+    "fields": {
+        "timestamp": "2021-01-18",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 51,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 52,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 53,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 54,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 55,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 56,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 57,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 58,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 59,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 60,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 61,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 62,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 63,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 64,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 65,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 66,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 67,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 68,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 69,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 70,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 71,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 72,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 73,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 74,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 75,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 76,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 77,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 78,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 79,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 80,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 81,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 82,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 83,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 84,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 85,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 86,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 87,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 88,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 89,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 90,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 91,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 92,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 93,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 94,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 95,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 96,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 97,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 98,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 99,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 100,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 101,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 102,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 103,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 104,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 105,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 106,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 107,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 108,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 109,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 110,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 111,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 112,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 113,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 114,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 115,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 116,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 117,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 118,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 119,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 120,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 121,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 122,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 123,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 124,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 125,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 126,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 127,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 128,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 129,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 130,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 131,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 132,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 133,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 134,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 135,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 136,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 137,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 138,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 139,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 140,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 141,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 142,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 143,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 144,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 145,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 146,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 147,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 148,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 149,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 150,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 151,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 152,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 153,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 154,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 155,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 156,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 157,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 158,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 159,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 160,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 161,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 162,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 163,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 164,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 165,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 166,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 167,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 168,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 169,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 170,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 171,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 172,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 173,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 174,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 175,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 176,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 177,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 178,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 179,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 180,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 181,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 182,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 183,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 184,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 185,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 186,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 187,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 188,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 189,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 190,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 191,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 192,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 193,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 194,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 195,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 196,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 197,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 198,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 199,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 200,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 201,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 202,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 203,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 204,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 205,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 206,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 207,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 208,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 209,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 210,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 211,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 212,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 213,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 214,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 215,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 216,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 217,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 218,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 219,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 220,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 221,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 222,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 223,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 224,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 225,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 226,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 227,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 228,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 229,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 230,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 231,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 232,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 233,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 234,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 235,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 236,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 237,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 238,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 239,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 240,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 241,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 242,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 243,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 244,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 245,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 246,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 247,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 248,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 249,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.error",
+    "pk": 250,
+    "fields": {
+        "timestamp": "2021-01-19",
+        "data": [
+            {
+                "url": "https://www.upwork.com/freelance-jobs/python/",
+                "title": "The page does not respond"
+            }
+        ]
+    }
+},
+{
+    "model": "scrap.url",
+    "pk": 1,
+    "fields": {
+        "city": 1,
+        "programming_language": 1,
+        "url_data": {
+            "hh": "https://hh.ru/search/vacancy?area=1&fromSearchLine=true&st=searchVacancy&area=1&isDefaultArea=true&exp_period=all_time&logic=normal&pos=full_text&fromSearchLine=true&st=resumeSearch&areaId=113&st=employersList&text=python",
+            "upwork": "https://www.upwork.com/freelance-jobs/python/"
+        }
     }
 }
 ]
