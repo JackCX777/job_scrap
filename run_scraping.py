@@ -1,4 +1,5 @@
 import codecs
+import asyncio
 import os, sys
 
 
@@ -42,6 +43,14 @@ def get_urls(_settings):
         urls.append(tmp)
     return urls
 
+
+async def main(value_tuple):
+    func, url, city, programming_language = value_tuple
+    jobs, errors = await loop.run_in_executor(None, func, url, city, programming_language)
+    jobs_lst.extend(jobs)
+    errors_lst.extend(errors)
+
+
 settings = get_settings()
 url_list = get_urls(settings)
 
@@ -52,13 +61,24 @@ url_list = get_urls(settings)
 jobs_lst, errors_lst = [], []
 
 
+
 if __name__ == '__main__':
-    for data in url_list:
-        for func, key in parsers:
-            url = data['url_data']['key']
-            jobs, errors = func(url, city=data['city'], programming_language=data['program_language'])
-            jobs_lst += jobs
-            errors_lst += errors
+    # for data in url_list:
+    #     for func, key in parsers:
+    #         url = data['url_data']['key']
+    #         jobs, errors = func(url, city=data['city'], programming_language=data['program_language'])
+    #         jobs_lst += jobs
+    #         errors_lst += errors
+
+    loop = asyncio.get_event_loop()
+    tmp_tasks = [
+        (func, data['url_data']['key'], data['city'], data['program_language'])
+        for data in url_list
+        for func, key in parsers
+    ]
+    tasks = asyncio.wait([loop.create_task(main(task_set)) for task_set in tmp_tasks])
+    loop.run_until_complete(tasks)
+    loop.close()
 
     for job in jobs_lst:
         # так как имена ключей словаря из файла parsers.py совпадают с моделью Vacancy,
