@@ -47,12 +47,14 @@ def hh_parser(site_url, city=None, programming_language=None):
                     vac_title = vac.text
                     vac_href = vac['href']
                     vac_content = div.find('div', attrs={'class': 'g-user-content'}).text
+                    vac_conditions = div.find('div', attrs={'class': 'vacancy-serp-item__sidebar'}).text
                     vac_company = div.find('div', attrs={'class': 'vacancy-serp-item__meta-info-company'}).text
                     hh_jobs_lst.append(
                         {
                             'title': vac_title,
                             'url': vac_href,
                             'description': vac_content,
+                            'conditions': vac_conditions,
                             'company': vac_company,
                              'city_id': city,
                              'programming_language_id': programming_language
@@ -85,12 +87,14 @@ def upwork_parser(site_url, city=None, programming_language=None):
                     vac_href = vac['href']
                     vac_content = div.find('p', attrs={'data-qa': 'job-description'}).text
                     vac_conditions = div.find('div', attrs={'class': 'row'}).text
+                    vac_company = 'No company (freelance)'
                     upwork_jobs_lst.append(
                         {
                             'title': vac_title,
                             'url': domain + vac_href,
                             'description': vac_content,
-                            # 'conditions': vac_conditions
+                            'conditions': vac_conditions,
+                            'company': vac_company,
                             'city_id': city,
                             'programming_language_id': programming_language
                          }
