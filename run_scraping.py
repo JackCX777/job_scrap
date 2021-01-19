@@ -65,14 +65,14 @@ jobs_lst, errors_lst = [], []
 if __name__ == '__main__':
     # for data in url_list:
     #     for func, key in parsers:
-    #         url = data['url_data']['key']
+    #         url = data['url_data'][key]
     #         jobs, errors = func(url, city=data['city'], programming_language=data['program_language'])
     #         jobs_lst += jobs
     #         errors_lst += errors
 
     loop = asyncio.get_event_loop()
     tmp_tasks = [
-        (func, data['url_data']['key'], data['city'], data['program_language'])
+        (func, data['url_data'][key], data['city'], data['programming_language'])
         for data in url_list
         for func, key in parsers
     ]
