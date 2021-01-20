@@ -20,9 +20,58 @@
         </div>
     {% endfor %}
 
+{% if object_list %}
+<div class="row">
+    <div class="col">
+        <nav aria-label="Page navigation example">
+          <ul class="pagination">
+            {% if object_list.has_previous %}
+                <li class="page-item">
+                  <a class="page-link" href="?city={{ city }}&programming_language={{ programming_language }}&page={{ object_list.previous_page_number }}" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                  </a>
+                </li>
+            {% endif %}
+            {% for page in object_list.paginator.page_range %}
+              <li class="page-item {% if page == object_list.number %} active {% endif %}">
+                  <a class="page-link" href="?city={{ city }}&programming_language={{ programming_language }}&page={{ page }}">{{ page }}</a>
+              </li>
+            {% endfor %}
+            {% if object_list.has_next %}
+              <li class="page-item">
+                <a class="page-link" href="?city={{ city }}&programming_language={{ programming_language }}&page={{ object_list.next_page_number }}" aria-label="Next">
+                  <span aria-hidden="true">&raquo;</span>
+                </a>
+              </li>
+            {% endif %}
+          </ul>
+        </nav>
+
+<!--        <div class="pagination">-->
+<!--            <span class="step-links">-->
+<!--                {% if object_list.has_previous %}-->
+<!--                    <a href="?city={{ city }}&programming_language={{ programming_language }}&page=1">&laquo; first</a>-->
+<!--                    <a href="?city={{ city }}&programming_language={{ programming_language }}&page={{ object_list.previous_page_number }}">previous</a>-->
+<!--                {% endif %}-->
+
+<!--                <span class="current">-->
+<!--                    Page {{ object_list.number }} of {{ object_list.paginator.num_pages }}.-->
+<!--                </span>-->
+
+<!--                {% if object_list.has_next %}-->
+<!--                    <a href="?city={{ city }}&programming_language={{ programming_language }}&page={{ object_list.next_page_number }}">next</a>-->
+<!--                    <a href="?city={{ city }}&programming_language={{ programming_language }}&city={{ city }}&programming_language={{ programming_language }}&page={{ object_list.paginator.num_pages }}">last &raquo;</a>-->
+<!--                {% endif %}-->
+<!--            </span>-->
+<!--        </div>-->
+
+    </div>
+</div>
+{% endif %}
+
 <div class="row">
     <div class="col-md-6 mx-auto">
-       <form method="GET" action="">
+       <form method="GET" action="{% url 'vacancy' %}">
          <div class="form-group">
            {{ form.as_p }}
          </div>
@@ -30,6 +79,5 @@
        </form>
     </div>
 </div>
-
 
 {% endblock %}
