@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block title %} Login {% endblock %}
+
+{% block content %}
+
+<div class="row">
+    <div class="col-md-8 mx-auto">
+        <h4 class="my-2">
+            Форма входа
+        </h4>
+<!--        action пустой, потому что данные передаются в ту же вьюху. token чтоб не было ошибок в POST-->
+       <form method="POST" action="">{% csrf_token %}
+         <div class="form-group">
+           {{ form.as_p }}
+         </div>
+         <button type="submit" class="btn btn-primary">Войти</button>
+       </form>
+    </div>
+</div>
+
+
+{% endblock %}
