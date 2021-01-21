@@ -31,14 +31,17 @@
 <!--            accounts - пространство имен из job_scrap/urls.py (include), logout, login - имена из accounts/urls.py-->
             {% if user.is_authenticated %}
                 <li class="nav-item">
+                  <a class="nav-link" href="{% url 'accounts:user_preference' %}">Настройки</a>
+                </li>
+                <li class="nav-item">
                   <a class="nav-link" href="{% url 'accounts:logout' %}">Выйти</a>
                 </li>
             {% else %}
                 <li class="nav-item">
-                  <a class="nav-link" href="{% url 'accounts:login' %}">Войти</a>
+                  <a class="nav-link" href="{% url 'accounts:register' %}">Регистрация</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="{% url 'accounts:register' %}">Регистрация</a>
+                  <a class="nav-link" href="{% url 'accounts:login' %}">Войти</a>
                 </li>
             {% endif %}
             <li class="nav-item">

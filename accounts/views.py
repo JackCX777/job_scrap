@@ -1,7 +1,7 @@
 from django.shortcuts import render, redirect
 from django.contrib.auth import authenticate, login, logout
 
-from accounts.forms import UserLoginForm, UserRegistrationForm
+from accounts.forms import UserLoginForm, UserRegistrationForm, UserPreferenceForm
 
 
 def login_view(request):
@@ -29,3 +29,21 @@ def register_view(request):
         new_user = form.save()
         return render(request, 'accounts/register_done.html', {'new_user': new_user})
     return render(request, 'accounts/register.html', {'form': form})
+
+
+def user_preference_view(request):
+    if request.user.is_authenticated:
+        user = request.user
+        if request.method == 'POST':
+            form = UserPreferenceForm(request.POST)
+        else:
+            form = UserPreferenceForm(
+                initial={
+                    'city': user.city,
+                    'programming_language': user.programming_language,
+                    'send_email': user.send_email
+                }
+                                      )
+            return render(request, 'accounts/user_preference.html', {'form': form})
+    else:
+        return redirect('accounts:login')
