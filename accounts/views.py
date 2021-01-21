@@ -36,14 +36,20 @@ def user_preference_view(request):
         user = request.user
         if request.method == 'POST':
             form = UserPreferenceForm(request.POST)
-        else:
-            form = UserPreferenceForm(
-                initial={
-                    'city': user.city,
-                    'programming_language': user.programming_language,
-                    'send_email': user.send_email
-                }
-                                      )
-            return render(request, 'accounts/user_preference.html', {'form': form})
+            if form.is_valid():
+                data = form.cleaned_data
+                user.city = data['city']
+                user.programming_language = data['programming_language']
+                user.send_email = data['send_email']
+                user.save()
+                return redirect('accounts:user_preference')
+        form = UserPreferenceForm(
+            initial={
+                'city': user.city,
+                'programming_language': user.programming_language,
+                'send_email': user.send_email
+            }
+                                  )
+        return render(request, 'accounts/user_preference.html', {'form': form})
     else:
         return redirect('accounts:login')
