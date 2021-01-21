@@ -1,8 +1,10 @@
 from django.shortcuts import render, redirect
-from django.contrib.auth import authenticate, login, logout
+from django.contrib.auth import authenticate, login, logout, get_user_model
 
 from accounts.forms import UserLoginForm, UserRegistrationForm, UserPreferenceForm
 
+
+User = get_user_model()
 
 def login_view(request):
     form = UserLoginForm(request.POST or None)
@@ -53,3 +55,12 @@ def user_preference_view(request):
         return render(request, 'accounts/user_preference.html', {'form': form})
     else:
         return redirect('accounts:login')
+
+
+def delete_view(request):
+    if request.user.is_authenticated:
+        user = request.user
+        if request.method == 'POST':
+            query_set = User.objects.get(pk=user.pk)
+            query_set.delete()
+    return redirect('home')
