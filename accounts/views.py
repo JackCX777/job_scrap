@@ -1,5 +1,6 @@
 from django.shortcuts import render, redirect
 from django.contrib.auth import authenticate, login, logout, get_user_model
+from django.contrib import messages
 
 from accounts.forms import UserLoginForm, UserRegistrationForm, UserPreferenceForm
 
@@ -28,7 +29,8 @@ def register_view(request):
     if form.is_valid():
         new_user = form.save(commit=False)
         new_user.set_password(form.cleaned_data['password'])
-        new_user = form.save()
+        new_user.save()
+        messages.success(request, 'Пользователь добавлен в систему.')
         return render(request, 'accounts/register_done.html', {'new_user': new_user})
     return render(request, 'accounts/register.html', {'form': form})
 
@@ -44,6 +46,7 @@ def user_preference_view(request):
                 user.programming_language = data['programming_language']
                 user.send_email = data['send_email']
                 user.save()
+                messages.success(request, 'Настройки сохранены.')
                 return redirect('accounts:user_preference')
         form = UserPreferenceForm(
             initial={
@@ -63,4 +66,5 @@ def delete_view(request):
         if request.method == 'POST':
             query_set = User.objects.get(pk=user.pk)
             query_set.delete()
+            messages.error(request, 'Пользователь удален из системы.')
     return redirect('home')
