@@ -1,5 +1,11 @@
-import os, sys
+import os
+import sys
 import django
+import datetime
+from django.contrib.auth import get_user_model
+from django.core.mail import EmailMultiAlternatives
+from scrap.models import Vacancy
+from job_scrap.settings import EMAIL_HOST_USER
 
 
 project = os.path.dirname(os.path.abspath('manage.py'))
@@ -8,16 +14,11 @@ os.environ['DJANGO_SETTINGS_MODULE'] = 'job_scrap.settings'
 django.setup()
 
 
-from django.contrib.auth import get_user_model
-from django.core.mail import EmailMultiAlternatives
-from scrap.models import Vacancy
-from job_scrap.settings import EMAIL_HOST_USER
-
-
 User = get_user_model()
+today = datetime.date.today()
 empty = '<h4>К сожалению, таких вакансий сегодня не найдено.</h4>'
-subject = 'Рассылка вакансий'
-text_content = 'Рассылка вакансий'
+subject = f'Рассылка вакансий за { today }'
+text_content = f'Рассылка вакансий за { today }'
 from_email = EMAIL_HOST_USER
 query_set_usr = User.objects.filter(send_email=True).values('city', 'programming_language', 'email')
 users_dict = {}
@@ -32,7 +33,7 @@ if users_dict:
         params['city_id__in'].append(pair[0])
         params['programming_language_id__in'].append(pair[1])
         # **params = unpack params dict, [:10] = temporary limit
-    query_set_vac = Vacancy.objects.filter(**params).values()[:10]
+    query_set_vac = Vacancy.objects.filter(**params, timestamp=today).values()
     # if .values() without any key, then keys + _id
     vacancies_dict = {}
     for _ in query_set_vac:
@@ -52,7 +53,6 @@ if users_dict:
             msg = EmailMultiAlternatives(subject, text_content, from_email, [to])
             msg.attach_alternative(_html, "text/html")
             msg.send()
-
 
 
 # It's from manuals:
