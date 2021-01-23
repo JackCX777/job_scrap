@@ -66,6 +66,9 @@ class Error(models.Model):
     timestamp = models.DateField(auto_now=True)
     data = jsonfield.JSONField()  # because there is no JSONField in sqlite3.
 
+    def __str__(self):
+        return str(self.timestamp)
+
 
 class Url(models.Model):
     city = models.ForeignKey('City', on_delete=models.CASCADE, verbose_name='Город')

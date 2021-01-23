@@ -2,10 +2,6 @@ import os
 import sys
 import django
 import datetime
-from django.contrib.auth import get_user_model
-from django.core.mail import EmailMultiAlternatives
-from scrap.models import Vacancy
-from job_scrap.settings import EMAIL_HOST_USER
 
 
 project = os.path.dirname(os.path.abspath('manage.py'))
@@ -14,12 +10,19 @@ os.environ['DJANGO_SETTINGS_MODULE'] = 'job_scrap.settings'
 django.setup()
 
 
+from django.contrib.auth import get_user_model
+from django.core.mail import EmailMultiAlternatives
+from scrap.models import Vacancy, Error
+from job_scrap.settings import EMAIL_HOST_USER
+
+
 User = get_user_model()
 today = datetime.date.today()
 empty = '<h4>К сожалению, таких вакансий сегодня не найдено.</h4>'
 subject = f'Рассылка вакансий за { today }'
 text_content = f'Рассылка вакансий за { today }'
 from_email = EMAIL_HOST_USER
+ADMIN_USER = EMAIL_HOST_USER
 query_set_usr = User.objects.filter(send_email=True).values('city', 'programming_language', 'email')
 users_dict = {}
 for _ in query_set_usr:
@@ -43,8 +46,8 @@ if users_dict:
         rows = vacancies_dict.get(keys, [])
         html = ''
         for row in rows:
-            html += f'<h><a href="{ row["url"] }">{ row["title"] }</a></h5>'
-            html += f'<h4>{ row["company"] }</h4>'
+            html += f'<h3><a href="{ row["url"] }">{ row["title"] }</a></h3>'
+            html += f'<p>{ row["company"] }</p>'
             html += f'<p>{ row["conditions"] }</p>'
             html += f'<p>{row["description"]}</p>'
         _html = html if html else empty
@@ -53,6 +56,20 @@ if users_dict:
             msg = EmailMultiAlternatives(subject, text_content, from_email, [to])
             msg.attach_alternative(_html, "text/html")
             msg.send()
+query_set_err = Error.objects.filter(timestamp=today)
+if query_set_err.exists():
+    # my query set is the list of errors, and when I take first, only one error will be send.
+    error = query_set_err.first()
+    data = error.data
+    _html = ''
+    for _ in data:
+        _html += f'<p><a href="{ _["url"] }">Error: { _["title"] }</a></p>'
+    subject = f'Ошибки сбора вакасий за { today }'
+    text_content = f'Ошибки сбора вакасий за { today }'
+    to = ADMIN_USER
+    msg = EmailMultiAlternatives(subject, text_content, from_email, [to])
+    msg.attach_alternative(_html, "text/html")
+    msg.send()
 
 
 # It's from manuals:
