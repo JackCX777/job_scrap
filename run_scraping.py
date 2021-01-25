@@ -1,6 +1,8 @@
 import codecs
 import asyncio
-import os, sys
+import os
+import sys
+import datetime as dt
 
 
 project = os.path.dirname(os.path.abspath('manage.py'))
@@ -36,11 +38,12 @@ def get_urls(_settings):
     urls_dict = {(q['city_id'], q['programming_language_id']): q['url_data'] for q in query_set}
     urls = []
     for pair in _settings:
-        tmp = {}
-        tmp['city'] = pair[0]
-        tmp['programming_language'] = pair[1]
-        tmp['url_data'] = urls_dict[pair]
-        urls.append(tmp)
+        if pair in urls_dict:
+            tmp = {}
+            tmp['city'] = pair[0]
+            tmp['programming_language'] = pair[1]
+            tmp['url_data'] = urls_dict[pair]
+            urls.append(tmp)
     return urls
 
 
@@ -89,7 +92,13 @@ if __name__ == '__main__':
         except DatabaseError:
             pass
         if errors_lst:
-            error = Error(data=errors_lst).save()
+            query_set_er = Error.objects.filter(timestamp =dt.datetime.today())
+            if query_set_er.exists():
+                error = query_set_er.first()
+                error.data.update({'errors': errors_lst})
+                error.save()
+            else:
+                error = Error(data=f'errors: {errors_lst}').save()
 
     # with codecs.open('parse_result.txt', 'w', 'utf-8') as file:
     #     file.write(str(jobs_lst))
