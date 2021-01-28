@@ -67,15 +67,17 @@ to = ADMIN_USER
 if query_set_err.exists():
     # my query set is the list of errors, and when I take first, only one error will be send.
     error = query_set_err.first()
-    data = error.data['errors']
+    # if no errors, data = []
+    data = error.data.get('errors', [])
     for _ in data:
         _html += f'<p><a href="{ _["url"] }">Error: { _["title"] }</a></p><br>'
     subject = f'Ошибки сбора вакасий на { today }'
     text_content = f'Ошибки сбора вакасий на { today }'
-    data = error.data['user_data']
+    # if no user_data, data = None
+    data = error.data.get('user_data')
     if data:
         _html += '<hr>'
-        _html += '<h2>Пожелания пользователей:<h2>'
+        _html += '<h2>Запросы пользователей:<h2>'
         for _ in data:
             _html += f'<p>Город: {_["city"]}, Специальность: {_["programming_language"]}, Почта: {_["email"]}</p><br>'
         subject = f'Запросы пользователей на {today}'
