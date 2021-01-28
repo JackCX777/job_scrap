@@ -4,23 +4,20 @@
 
 {% block content %}
 
-    {% for obj in object_list %}
-        <div class="card my-3">
-          <h5 class="card-header"><a href="{{ obj.url }}">{{ obj.title }}</a></h5>
-          <div class="card-body">
-            <h4>{{ obj.company }}</h4>
-              <p>{{ obj.conditions }}</p>
-            <p class="card-text">{{ obj.description }}</p>
-            <p>{{ obj.city.name }} | {{ obj.programming_language.name }} | <small>{{ obj.timestamp|date:"d-M-Y" }}</small></p>
-          </div>
-        </div>
-    {% empty %}
-        <div>
-            <h3 class="mx-auto">No vacancy</h3>
-        </div>
-    {% endfor %}
 
 {% if object_list %}
+<h3 class="mx-auto">Результаты запроса:</h3>
+{% for obj in object_list %}
+    <div class="card my-3">
+      <h5 class="card-header"><a href="{{ obj.url }}">{{ obj.title }}</a></h5>
+      <div class="card-body">
+        <h4>{{ obj.company }}</h4>
+          <p>{{ obj.conditions }}</p>
+        <p class="card-text">{{ obj.description }}</p>
+        <p>{{ obj.city.name }} | {{ obj.programming_language.name }} | <small>{{ obj.timestamp|date:"d-M-Y" }}</small></p>
+      </div>
+    </div>
+{% endfor %}
 <div class="row">
     <div class="col">
         <nav aria-label="Page navigation example">
@@ -67,6 +64,10 @@
 
     </div>
 </div>
+{% else %}
+    <div>
+        <h3 class="mx-auto">Вакансии не найдены.</h3>
+    </div>
 {% endif %}
 
 <div class="row">
