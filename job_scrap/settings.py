@@ -123,7 +123,12 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 
+# this is for ability of join static
 STATIC_URL = '/static/'
+# path to static, maybe several paths
+STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static'),]
+# should have different name then STATICFILES_DIRS, should have only one path
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 AUTH_USER_MODEL = 'accounts.MyUser'
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'

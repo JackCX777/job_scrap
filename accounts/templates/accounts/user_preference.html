@@ -28,12 +28,21 @@
             Если Вы не нашли подходящую комбинацию Город - Специальность,
             заполните форму ниже и ждите ответ на укзанную в профиле почту.
         </p>
-       <form method="POST" action="{% url 'accounts:contact' %}">{% csrf_token %}
-         <div class="form-group">
-           {{ contact_form.as_p }}
-         </div>
-         <button type="submit" class="btn btn-primary">Отправить</button>
-       </form>
+        <p>
+          <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapsed" aria-expanded="false" aria-controls="collapseExample">
+            Форма запроса вакансий своего города
+          </button>
+        </p>
+        <div class="collapse" id="collapsed">
+          <div class="card card-body">
+            <form method="POST" action="{% url 'accounts:contact' %}">{% csrf_token %}
+              <div class="form-group">
+                {{ contact_form.as_p }}
+              </div>
+              <button type="submit" class="btn btn-primary">Отправить</button>
+            </form>
+          </div>
+        </div>
     </div>
 </div>
 
