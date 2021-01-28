@@ -92,7 +92,7 @@ if __name__ == '__main__':
         except DatabaseError:
             pass
         if errors_lst:
-            query_set_er = Error.objects.filter(timestamp =dt.datetime.today())
+            query_set_er = Error.objects.filter(timestamp=dt.datetime.today())
             if query_set_er.exists():
                 error = query_set_er.first()
                 error.data.update({'errors': errors_lst})

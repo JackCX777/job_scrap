@@ -88,10 +88,10 @@ def contact_view(request):
                 error.data['user_data'] = data
                 error.save()
             else:
-                data = [{'city': city, 'programming_language': programming_language, 'email': email}]
-                Error(data=f'user_data: {data}').save()
-                messages.success(request, 'Данные отправлены администрации.')
-                return redirect('accounts:user_preference')
+                data = {'user_data':[{'city': city, 'programming_language': programming_language, 'email': email}]}
+                Error(data=data).save()
+            messages.success(request, 'Данные отправлены администрации.')
+            return redirect('accounts:user_preference')
         else:
             return redirect('accounts:user_preference')
     else:

@@ -7,8 +7,8 @@ import datetime
 project = os.path.dirname(os.path.abspath('manage.py'))
 sys.path.append(project)
 os.environ['DJANGO_SETTINGS_MODULE'] = 'job_scrap.settings'
-django.setup()
 
+django.setup()
 
 from django.contrib.auth import get_user_model
 from django.core.mail import EmailMultiAlternatives
@@ -37,7 +37,6 @@ if users_dict:
         params['city_id__in'].append(pair[0])
         params['programming_language_id__in'].append(pair[1])
         # **params = unpack params dict, [:10] = temporary limit
-
     query_set_vac = Vacancy.objects.filter(**params, timestamp=today).values()
     # if .values() without any key, then keys + _id
     vacancies_dict = {}
@@ -68,20 +67,31 @@ to = ADMIN_USER
 if query_set_err.exists():
     # my query set is the list of errors, and when I take first, only one error will be send.
     error = query_set_err.first()
-    data = error.data
+    data = error.data['errors']
     for _ in data:
         _html += f'<p><a href="{ _["url"] }">Error: { _["title"] }</a></p><br>'
-    subject = f'Ошибки сбора вакасий за { today }'
-    text_content = f'Ошибки сбора вакасий за { today }'
+    subject = f'Ошибки сбора вакасий на { today }'
+    text_content = f'Ошибки сбора вакасий на { today }'
+    data = error.data['user_data']
+    if data:
+        _html += '<hr>'
+        _html += '<h2>Пожелания пользователей:<h2>'
+        for _ in data:
+            _html += f'<p>Город: {_["city"]}, Специальность: {_["programming_language"]}, Почта: {_["email"]}</p><br>'
+        subject = f'Запросы пользователей на {today}'
+        text_content = f'Запросы пользователей на {today}'
 
 query_set_url = Url.objects.all().values('city', 'programming_language')
 urls_dict = {(_['city'], _['programming_language']): True for _ in query_set_url}
 urls_pair_keys_error = ''
 for keys in users_dict.keys():
     if keys not in urls_dict:
-        urls_pair_keys_error += f'<p>Для города { keys[0] } и специальности { keys[1] } нет url.</p><br>'
+        if keys[0] and keys[1]:
+            urls_pair_keys_error += f'<p>Для города { keys[0] } и специальности { keys[1] } нет url.</p><br>'
 if urls_pair_keys_error:
     subject += ' Отсутствуют url'
+    _html += '<hr>'
+    _html += '<h2>Отсутствующие url: </h2>'
     _html += urls_pair_keys_error
 
 if subject:

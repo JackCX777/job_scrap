@@ -63,7 +63,7 @@ class Vacancy(models.Model):
 
 
 class Error(models.Model):
-    timestamp = models.DateField(auto_now=True)
+    timestamp = models.DateField(auto_now_add=True)
     data = jsonfield.JSONField()  # because there is no JSONField in sqlite3.
 
     def __str__(self):
