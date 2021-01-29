@@ -16,6 +16,7 @@ import dj_database_url
 
 
 AUTH_USER_MODEL = 'accounts.MyUser'
+
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
@@ -27,7 +28,7 @@ DB_USER = os.environ.get('DB_USER')
 DB_PASSWORD = os.environ.get('DB_PASSWORD')
 DB_HOST = os.environ.get('DB_HOST')
 DB_PORT = os.environ.get('DB_PORT')  # 5432 - default for Heroku and PostgreSql
-# SECRET_KEY = os.environ.get('SECRET_KEY')
+SECRET_KEY = os.environ.get('SECRET_KEY')
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -42,12 +43,13 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'gz5%ytk$xo$#u35_%9ed6+u$o#vcw%--5va&r515vtiaofl%mf'
+# SECRET_KEY = 'gz5%ytk$xo$#u35_%9ed6+u$o#vcw%--5va&r515vtiaofl%mf'
+SECRET_KEY = SECRET_KEY
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://job-scrap.herokuapp.com']
 
 
 # Application definition
