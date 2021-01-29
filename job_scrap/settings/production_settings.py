@@ -49,7 +49,7 @@ SECRET_KEY = SECRET_KEY
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://job-scrap.herokuapp.com']
+ALLOWED_HOSTS = ['job-scrap.herokuapp.com']
 
 
 # Application definition
