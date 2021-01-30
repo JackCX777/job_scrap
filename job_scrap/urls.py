@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from scrap.views import vacancy_view, home_view
+from scrap.views import vacancy_view, home_view, vacancy_details, VacancyDetail
 
 
 urlpatterns = [
@@ -23,4 +23,9 @@ urlpatterns = [
     path('', home_view, name='home'),
     path('vacancy/', vacancy_view, name='vacancy'),
     path('accounts/', include(('accounts.urls', 'accounts'))),
+    # <int:pk> - после адреса должно быть число, которое парсит Django и присваивает значение переменной pk,
+    # имя которой должно совпадать с именем во views.py, чтобы потом это значение могло пеередаваться во views.py.
+    # path('detail/<int:pk>/', vacancy_details, name='vacancy_details'),
+    # vacancy_details с помощью класса
+    path('detail/<int:pk>/', VacancyDetail.as_view(), name='vacancy_details'),
 ]
