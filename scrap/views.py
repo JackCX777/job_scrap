@@ -1,7 +1,8 @@
+from django.contrib import messages
 from django.core.paginator import Paginator
 from django.shortcuts import render, get_object_or_404
 from django.urls import reverse_lazy
-from django.views.generic import DetailView, ListView, CreateView, UpdateView
+from django.views.generic import DetailView, ListView, CreateView, UpdateView, DeleteView
 
 from .Forms import FindForm, CreateForm
 from .models import Vacancy
@@ -92,3 +93,15 @@ class VacancyUpdate(UpdateView):
     form_class = CreateForm
     template_name = 'scrap/create.html'
     success_url = reverse_lazy('home')
+
+
+class VacancyDelete(DeleteView):
+    model = Vacancy
+    # раскоментировать и закоментировать get(), если нужен вариант удаления
+    # без промежуточных вопросов
+    # template_name = 'scrap/delete.html'
+    success_url = reverse_lazy('home')
+
+    def get(self, request, *args, **kwargs):
+        messages.success(request, 'Удалено.')
+        return self.post(self, request, *args, **kwargs)

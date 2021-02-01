@@ -1,16 +1,18 @@
 {% extends 'base.html' %}
 
-{% block title %} Vacancy Detail {% endblock %}
+{% block title %} Vacancy Create {% endblock %}
 
 {% block content %}
 
     <div class="card my-3">
       <h5 class="card-header"><a href="{{ object.url }}">{{ object.title }}</a></h5>
       <div class="card-body">
-        <h4>{{ object.company }}</h4>
-          <p>{{ object.conditions }}</p>
-        <p class="card-text">{{ object.description }}</p>
-        <p>{{ object.city.name }} | {{ object.programming_language.name }} | <small>{{ object.timestamp|date:"d-M-Y" }}</small></p>
+        <p class="card-text">
+            <form method="post"> {% csrf_token %}
+              {{ form.as_p }}
+              <button type="submit" class="btn btn-primary">Сохранить</button>
+            </form>
+        </p>
       </div>
     </div>
 

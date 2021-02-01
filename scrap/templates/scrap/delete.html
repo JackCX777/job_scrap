@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block title %} Vacancy Delete {% endblock %}
+
+{% block content %}
+
+    <div class="card my-3">
+      <form method="post"> {% csrf_token %}
+          <p>
+              {{ object }}
+          </p>
+          <input type="submit" value="Удалить?">
+      </form>
+    </div>
+
+{% endblock %}

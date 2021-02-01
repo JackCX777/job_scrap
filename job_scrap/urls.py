@@ -22,7 +22,8 @@ from scrap.views import (
     VacancyDetail,
     # VacancyList,
     VacancyCreate,
-    VacancyUpdate
+    VacancyUpdate,
+    VacancyDelete
                          )
 
 
@@ -39,4 +40,5 @@ urlpatterns = [
     path('detail/<int:pk>/', VacancyDetail.as_view(), name='vacancy_details'),
     path('create/', VacancyCreate.as_view(), name='create'),
     path('update/<int:pk>/', VacancyUpdate.as_view(), name='update'),
+    path('delete/<int:pk>/', VacancyDelete.as_view(), name='delete'),
 ]
