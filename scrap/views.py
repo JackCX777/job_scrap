@@ -24,7 +24,10 @@ def vacancy_view(request):
             _filter['city__slug'] = city
         if programming_language:
             _filter['programming_language__slug'] = programming_language
-        query_set = Vacancy.objects.filter(**_filter)  # Request to database returns query_set object.
+        # query_set = Vacancy.objects.filter(**_filter)  # Request to database returns query_set object.
+        # Так можно связать таблицы и уйти от проблемы n+1 запросов к базе данных
+        # select_related для many to one, prefetch_related для many to many
+        query_set = Vacancy.objects.filter(**_filter).select_related('city', 'programming_language')
         paginator = Paginator(query_set, 10)  # Show 25 contacts per page.
         page_number = request.GET.get('page')
         page_obj = paginator.get_page(page_number)
@@ -57,7 +60,9 @@ def vacancy_view(request):
 #                 _filter['city__slug'] = city
 #             if programming_language:
 #                 _filter['programming_language__slug'] = programming_language
-#             query_set = Vacancy.objects.filter(**_filter)  # Request to database returns query_set object.
+#             # query_set = Vacancy.objects.filter(**_filter).select_related('city', 'programming_language')
+#             # Так можно связать таблицы и уйти от проблемы n+1 запросов к базе данных
+#             query_set = Vacancy.objects.filter(**_filter).select_related('city', 'programming_language')
 #         return query_set
 
 
