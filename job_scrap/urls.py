@@ -15,7 +15,15 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from scrap.views import vacancy_view, home_view, vacancy_details, VacancyDetail, VacancyList
+from scrap.views import (
+    vacancy_view,
+    home_view,
+    # vacancy_details,
+    VacancyDetail,
+    # VacancyList,
+    VacancyCreate,
+    VacancyUpdate
+                         )
 
 
 urlpatterns = [
@@ -29,4 +37,6 @@ urlpatterns = [
     # path('detail/<int:pk>/', vacancy_details, name='vacancy_details'),
     # vacancy_details с помощью класса
     path('detail/<int:pk>/', VacancyDetail.as_view(), name='vacancy_details'),
+    path('create/', VacancyCreate.as_view(), name='create'),
+    path('update/<int:pk>/', VacancyUpdate.as_view(), name='update'),
 ]

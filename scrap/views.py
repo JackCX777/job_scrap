@@ -1,8 +1,9 @@
 from django.core.paginator import Paginator
 from django.shortcuts import render, get_object_or_404
-from django.views.generic import DetailView, ListView
+from django.urls import reverse_lazy
+from django.views.generic import DetailView, ListView, CreateView, UpdateView
 
-from .Forms import FindForm
+from .Forms import FindForm, CreateForm
 from .models import Vacancy
 
 
@@ -75,3 +76,19 @@ class VacancyDetail(DetailView):
     # если нужна еще логика, переопределяем метод get()
     def get(self, request, *args, **kwargs):
         pass
+
+
+class VacancyCreate(CreateView):
+    model = Vacancy
+    # fields = '__all__'
+    form_class = CreateForm
+    template_name = 'scrap/create.html'
+    success_url = reverse_lazy('home')
+
+
+class VacancyUpdate(UpdateView):
+    model = Vacancy
+    # fields = '__all__'
+    form_class = CreateForm
+    template_name = 'scrap/create.html'
+    success_url = reverse_lazy('home')
